@@ -2,25 +2,25 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "Açık Havza",
+    "title": "açık Havza",
     "body": "Sularını denize ulaştırabilen havzalara açık havza denir"
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "Açısal Hız",
+    "title": "açısal Hız",
     "body": "Dairesel hareket yapan Dünya üzerindeki bir noktanın birim zamanda oluşturduğu dönüş açısıdır. Dünya, ekseni çevresindeki hareketi sırasında 4 dakikada 1 derecelik, 1 saatte 15 derecelik, 24 saatte 360 derecelik dönüş yapar. Açısal hız, dünya üzerindeki her noktada aynıdır."
   },
   {
     "userId": 1,
     "id": 3,
-    "title": "Ağıl",
+    "title": "ağıl",
     "body": "Hayvanların barındığı, çevresi taş veya ahşap ile çevrili yerlere ağıl adı verilmektedir. Ağıllar zamanla nüfusun artmasına bağlı olarak sürekli yerleşme haline gelebilir. Sürü sahipleri tarafından kurulan ağıllar kış mevsiminde hayvanların korunması amacıyla kullanılır."
   },
   {
     "userId": 1,
     "id": 4,
-    "title": "Akarsu Akımı (Debisi)",
+    "title": "akarsu akımı (Debisi)",
     "body": "Akarsuyun herhangi bir kesitinden birim zamanda geçen su miktarına (m3) akım veya debi denir"
   },
   {
