@@ -2,13 +2,13 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "açık Havza",
+    "title": "açık havza",
     "body": "Sularını denize ulaştırabilen havzalara açık havza denir"
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "açısal Hız",
+    "title": "açısal hız",
     "body": "Dairesel hareket yapan Dünya üzerindeki bir noktanın birim zamanda oluşturduğu dönüş açısıdır. Dünya, ekseni çevresindeki hareketi sırasında 4 dakikada 1 derecelik, 1 saatte 15 derecelik, 24 saatte 360 derecelik dönüş yapar. Açısal hız, dünya üzerindeki her noktada aynıdır."
   },
   {
