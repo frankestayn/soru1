@@ -9,7 +9,7 @@
     "userId": 1,
     "id": 2,
     "title": "açısal hız",
-    "body": "Dairesel hareket yapan Dünya üzerindeki bir noktanın birim zamanda oluşturduğu dönüş açısıdır. Dünya, ekseni çevresindeki hareketi sırasında 4 dakikada 1 derecelik, 1 saatte 15 derecelik, 24 saatte 360 derecelik dönüş yapar. Açısal hız, dünya üzerindeki her noktada aynıdır."
+    "body": "Dairesel hareket yapan Dünya üzerindeki bir noktanın birim zamanda oluşturduğu dönüş açısıdır. Dünya, \nekseni çevresindeki hareketi sırasında 4 dakikada 1 derecelik, 1 saatte 15 derecelik, 24 saatte 360 derecelik dönüş yapar. Açısal hız, dünya üzerindeki her noktada aynıdır."
   },
   {
     "userId": 1,
@@ -26,14 +26,14 @@
   {
     "userId": 1,
     "id": 5,
-    "title": "nesciunt quas odio",
-    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    "title": "akarsu rejimi",
+    "body": "Akarsuyun \nakımının yıl içerisinde gösterdiği değişmelere \nrejim ya da \nakım düzeni denir."
   },
   {
     "userId": 1,
     "id": 6,
-    "title": "dolorem eum magni eos aperiam quia",
-    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    "title": "alizeler",
+    "body": "30° enlemlerinden (DYB) Ekvator’a (TAB) doğru esen \nrüzgarlardır. Dünya’nın ekseni çevresindeki hareketi nedeniyle sapmaya uğrayarak, Kuzey Yarım Küre’de kuzeydoğudan, Güney Yarım Küre’de güneydoğudan \neserler. En düzenli ve sürekli esen \nrüzgarlardır. Okyanus akıntılarının yönlerini düzenlerler. Başlangıçta kuru olan bu \nrüzgarlar, deniz üzerinden aldıkları \nnemi Ekvator çevresine yağış olarak bırakırlar."
   },
   {
     "userId": 1,
