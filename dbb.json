@@ -9,13 +9,13 @@
     "userId": 1,
     "id": 2,
     "title": "açısal hız",
-    "body": "Dairesel hareket yapan Dünya üzerindeki bir noktanın birim zamanda oluşturduğu dönüş açısıdır. Dünya, \nekseni çevresindeki hareketi sırasında 4 dakikada 1 derecelik, 1 saatte 15 derecelik, 24 saatte 360 derecelik dönüş yapar. Açısal hız, dünya üzerindeki her noktada aynıdır."
+    "body": "Dairesel hareket yapan Dünya üzerindeki bir noktanın birim zamanda oluşturduğu dönüş açısıdır. \nDünya, ekseni çevresindeki hareketi sırasında 4 dakikada 1 derecelik, 1 saatte 15 derecelik, 24 saatte 360 derecelik dönüş yapar. Açısal hız, dünya üzerindeki her noktada aynıdır."
   },
   {
     "userId": 1,
     "id": 3,
     "title": "ağıl",
-    "body": "Hayvanların barındığı, çevresi taş veya ahşap ile çevrili yerlere ağıl adı verilmektedir. Ağıllar zamanla nüfusun artmasına bağlı olarak sürekli yerleşme haline gelebilir. Sürü sahipleri tarafından kurulan ağıllar kış mevsiminde hayvanların korunması amacıyla kullanılır."
+    "body": "Hayvanların barındığı, çevresi taş veya ahşap ile çevrili yerlere ağıl adı verilmektedir. \nAğıllar zamanla nüfusun artmasına bağlı olarak sürekli yerleşme haline gelebilir. \nSürü sahipleri tarafından kurulan ağıllar kış mevsiminde hayvanların korunması amacıyla kullanılır."
   },
   {
     "userId": 1,
@@ -27,13 +27,13 @@
     "userId": 1,
     "id": 5,
     "title": "akarsu rejimi",
-    "body": "Akarsuyun \nakımının yıl içerisinde gösterdiği değişmelere \nrejim ya da \nakım düzeni denir."
+    "body": "Akarsuyun akımının yıl içerisinde gösterdiği değişmelere rejim ya da akım düzeni denir."
   },
   {
     "userId": 1,
     "id": 6,
     "title": "alizeler",
-    "body": "30° enlemlerinden (DYB) Ekvator’a (TAB) doğru esen \nrüzgarlardır. Dünya’nın ekseni çevresindeki hareketi nedeniyle sapmaya uğrayarak, Kuzey Yarım Küre’de kuzeydoğudan, Güney Yarım Küre’de güneydoğudan \neserler. En düzenli ve sürekli esen \nrüzgarlardır. Okyanus akıntılarının yönlerini düzenlerler. Başlangıçta kuru olan bu \nrüzgarlar, deniz üzerinden aldıkları \nnemi Ekvator çevresine yağış olarak bırakırlar."
+    "body": "30° enlemlerinden (DYB) Ekvator’a (TAB) doğru esen rüzgarlardır. \nDünya’nın ekseni çevresindeki hareketi nedeniyle sapmaya uğrayarak, Kuzey Yarım Küre’de kuzeydoğudan, Güney Yarım Küre’de güneydoğudan eserler. \nEn düzenli ve sürekli esen rüzgarlardır. \nOkyanus akıntılarının yönlerini düzenlerler. \nBaşlangıçta kuru olan bu rüzgarlar, deniz üzerinden aldıkları nemi Ekvator çevresine yağış olarak bırakırlar."
   },
   {
     "userId": 1,
