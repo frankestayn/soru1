@@ -598,5 +598,191 @@
     "id": 100,
     "title": "jeosenklinal",
     "body": "Akarsular, rüzgarlar ve buzullar, aşındırıp, taşıdıkları maddeleri deniz ya da okyanus tabanlarında biriktirirler. Tortullanmanın görüldüğü bu geniş alanlara jeosenklinal denir."
+  },
+  {
+    "userId": 11,
+    "id": 101,
+    "title": "jeoterm basamağı",
+    "body": "Yeryüzünden yerin derinliklerine inildikçe 33 m’de bir sıcaklık 1 °C artar. Buna jeoterm basamağı denir."
+  },
+  {
+    "userId": 11,
+    "id": 102,
+    "title": "jips (alçıtaşı)",
+    "body": "Beyaz renkli, tırnakla çizilebilen kimyasal tortul bir taştır. Alçıtaşı olarak da isimlendirilir."
+  },
+  {
+    "userId": 11,
+    "id": 103,
+    "title": "kalker (kireçtaşı)",
+    "body": "Deniz ve okyanus havzalarında, erimiş halde bulunan kirecin çökelmesi ve taşlaşması sonucu oluşan taştır."
+  },
+  {
+    "userId": 11,
+    "id": 104,
+    "title": "kant-laplace teorisi",
+    "body": "Güneş Sistemi’nin oluşumu ile ilgili farklı teoriler ortaya atılmıştır. En geçerli teori sayılan Kant-Laplace teorisine Nebula teorisi de denir. Bu teoriye göre, Nebula adı verilen kızgın gaz kütlesi ekseni çevresinde sarmal bir hareketle dönerken, zamanla soğuyarak küçülmüştür. Bu dönüş etkisiyle oluşan çekim merkezinde Güneş oluşmuştur. Gazlardan hafif olanları Güneş tarafından çekilmiş, çekim etkisi dışındakiler uzay boşluğuna dağılmış ağır olanlar da Güneş’ten farklı uzaklıklarda soğuyarak gezegenleri oluşturmuşlardır."
+  },
+  {
+    "userId": 11,
+    "id": 105,
+    "title": "kapalı havza",
+    "body": "Sularını denize ulaştıramayan havzalara kapalı havza denir."
+  },
+  {
+    "userId": 11,
+    "id": 106,
+    "title": "karaların ortalama yüksekliği",
+    "body": "Karaların ortalama yüksekliği 1000 m dir. Dünya’nın en yüksek yeri deniz seviyesinden 8840 m yükseklikteki Everest Tepesi’dir."
+  },
+  {
+    "userId": 11,
+    "id": 107,
+    "title": "karayel",
+    "body": "Türkiye’ye kuzeybatıdan esen soğuk rüzgarlardır. Kışın kar yağışlarına, yazın sağanak yağışlara neden olur."
+  },
+  {
+    "userId": 11,
+    "id": 108,
+    "title": "karstik göller",
+    "body": "Eriyebilen kayaçların bulunduğu yerlerde oluşan göllerdir."
+  },
+  {
+    "userId": 11,
+    "id": 109,
+    "title": "kaynak",
+    "body": "Yeraltı sularının kendiliğinden yeryüzüne çıktığı yere kaynak denir. Türkiye’de kaynaklara pınar, eşme, bulak ve göze gibi adlar da verilir."
+  },
+  {
+    "userId": 11,
+    "id": 110,
+    "title": "kenar deniz",
+    "body": "Okyanus kıyılarında, okyanuslardan adalarla ayrılan denizlere denir. Örnek Japon Denizi, Çin Denizi (Sarı Deniz), Umman Denizi, Kuzey Buz Denizi, Antiler, Tasman Denizi, Mercan Denizi, Bering Denizi, Karayip Denizi"
+  },
+  {
+    "userId": 12,
+    "id": 111,
+    "title": "kesir ölçek",
+    "body": "Haritalardaki küçültme oranını basit kesirle ifade eden ölçek türüdür.1 / 25.000 , 1 / 500.000, 1 / 1.000.000 birer kesir ölçektir.Kesir ölçekte, pay ile paydanın birimleri aynıdır. Uzunluk birimi olarak santimetre (cm) kullanılır. Örneğin 1 / 1.000.000 ölçeğinde, arazi üzerindeki 1.000.000 cm (10 km)'lik uzunluk harita üzerinde 1 cm gösterilmiştir."
+  },
+  {
+    "userId": 12,
+    "id": 112,
+    "title": "kiltaşı (şist)",
+    "body": "Beyaz renkli, tırnakla çizilebilen kimyasal tortul bir taştır. Alçıtaşı olarak da isimlendirilir."
+  },
+  {
+    "userId": 12,
+    "id": 113,
+    "title": "kırağı",
+    "body": "Soğuyan zeminler üzerindeki yoğunlaşmanın buz kristalleri şeklinde olmasıdır. Kırağının oluşabilmesi için de havanın açık ve durgun olması gerekir."
+  },
+  {
+    "userId": 12,
+    "id": 114,
+    "title": "kırç",
+    "body": "Aşırı soğumuş su taneciklerinden oluşan bir sis uzun süre yerde kaldığında, su taneciklerinin soğuk cisimlere çarparak buz haline geçmesidir."
+  },
+  {
+    "userId": 11,
+    "id": 115,
+    "title": "kırgıbayır",
+    "body": "Yarı kurak iklim bölgelerinde sel yarıntılarıyla dolu yamaçlara kırgıbayır (badlans) denir."
+  },
+  {
+    "userId": 12,
+    "id": 116,
+    "title": "kıta",
+    "body": "Denizlerin ortasında çok büyük birer ada gibi duran kara kütlelerine kıta denir."
+  },
+  {
+    "userId": 12,
+    "id": 117,
+    "title": "kıta platformu",
+    "body": "Derin deniz platformundan sonra yüksek dağlar ile kıyı ovaları arasındaki en geniş bölümdür."
+  },
+  {
+    "userId": 11,
+    "id": 118,
+    "title": "kıta sahanlığı",
+    "body": "Deniz seviyesinin altında, kıyı çizgisinden -200 m derine kadar inen bölüme kıta sahanlığı (şelf) denir. Şelf kıtaların su altında kalmış bölümleri sayılır."
+  },
+  {
+    "userId": 12,
+    "id": 119,
+    "title": "kıta yamacı",
+    "body": "Şelf ile derin deniz platformunu birbirine bağlayan bölümdür."
+  },
+  {
+    "userId": 12,
+    "id": 120,
+    "title": "kom",
+    "body": "Ekonomik faaliyetin büyük ölçüde hayvancılığa dayalı olduğu aileler veya kişiler tarafından oluşturulan geçici yerleşmelerdir."
+  },
+   {
+    "userId": 13,
+    "id": 121,
+    "title": "kömür",
+    "body": "Bitkiler öldükten sonra bakteriler etkisiyle değişime uğrar. Eğer su altında kalarak değişime uğrarsa, C (karbon) miktarı artarak kömürleşme başlar. C miktarı % 60 ise turba, C miktarı % 70 ise linyit, C miktarı % 80 – 90 ise taş kömürü, C miktarı % 94 ise antrasit adını alır."
+  },
+  {
+    "userId": 13,
+    "id": 122,
+    "title": "konveksiyonel yağış",
+    "body": "Isınan havanın yükselerek soğuması ile oluşan yağışlardır."
+  },
+  {
+    "userId": 13,
+    "id": 123,
+    "title": "kör (çıkmaz) Vadi",
+    "body": "Karstik yörelerdeki akarsular bir düdende kaybolarak akışını yeraltında sürdürür. Bu akarsuların yeryüzünde süreklilik göstermeyen vadilerine kör (çıkmaz) vadi denir."
+  },
+  {
+    "userId": 13,
+    "id": 124,
+    "title": "krivetz",
+    "body": "Romanya’nın iç kesimlerinden Karadeniz kıyılarına doğru esen soğuk rüzgarlardır."
+  },
+  {
+    "userId": 13,
+    "id": 125,
+    "title": "kroki",
+    "body": "Bir yerin kuşbakışı görünümünün ölçeksiz olarak düzleme aktarılmasıdır."
+  },
+  {
+    "userId": 13,
+    "id": 126,
+    "title": "kuaterner zaman",
+    "body": "Dördüncü Zaman."
+  },
+  {
+    "userId": 13,
+    "id": 127,
+    "title": "kumsal",
+    "body": "Kıyılarda dalga ve akıntıların taşıdıkları maddeleri biriktirmesi ile oluşan alanlara kumsal denir. Girintili-çıkıntılı bir kıyıda dalgalar, denize çıkıntı yapan dik burunlarda aşındırma, buradan kopardıkları maddeleri koy içlerine taşıyarak kumsalların oluşmasını sağlar. Bu nedenle kumsallar genellikle koy içlerinde yer alır ve bir şerit halinde uzanır."
+  },
+  {
+    "userId": 13,
+    "id": 128,
+    "title": "kumtaşı (gre)",
+    "body": "Kum tanelerinin doğal bir çimento maddesi yardımıyla yapışması sonucu oluşan fiziksel tortul bir taştır."
+  },
+  {
+    "userId": 13,
+    "id": 129,
+    "title": "kumullar",
+    "body": "Rüzgarların taşıdığı kumların çökelmesiyle kumullar oluşur. Gevşek yapıya sahip olan kumullar sürekli yer değiştirmektedirler. Orta Asya çöllerinde oluşan hilal biçimli kumullara ise barkan adı verilir."
+  },
+  {
+    "userId": 13,
+    "id": 130,
+    "title": "kuraklık sınırı",
+    "body": "Bir bölgenin sıcaklık ve nem koşulları tarım ürünlerini, sulamaya duyulan gereksinimi etkilemektedir.Yaz kuraklığının belirgin olduğu bir yerde sulamaya duyulan gereksinim fazladır. Buna kuraklık sınırı denir."
+  },
+  {
+    "userId": 14,
+    "id": 131,
+    "title": "lapya",
+    "body": "Kalkerli yamaçlarda yağmur ve kar sularının yüzeyi eriterek açtıkları küçük oluklardır. Oluşan çukurluklar keskin sırtlarda yan yana sıralandığından yüzey pürüzlüdür. Büyüklükleri birkaç cm ile birkaç metre arasında değişir."
   }
 ]
