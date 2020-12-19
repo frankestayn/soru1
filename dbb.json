@@ -1,7 +1,7 @@
 [
     
     {
-        "harf": "A Harfi",
+        "harf": "A",
         "userId": 1,
         "id": 1,
         "title": "açık havza:",
@@ -106,229 +106,266 @@
         "body": "Hava her zaman taşıyabileceği kadar nem yüklenmez. Genellikle havadaki su buharı miktarıyla doyma miktarı arasında bir fark bulunur. Bu farka doyma açığı (nem açığı) denir.Belli sıcaklıkta 1m3 havanın neme doyma oranına ise bağıl nem denir."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 16,
         "title": "bankiz:",
         "body": "Kutup çevresindeki denizlerde, suyun donması ile oluşan buz kütleleridir."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 17,
         "title": "barograf:",
         "body": "Basıncı sürekli kaydeden ve yazıcı ucu bulunan bir tür madeni barometredir."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 18,
         "title": "basınç:",
         "body": "Yüksek basınç alanlarında alçalıcı hava hareketi buharlaşmayı engeller. Çünkü alçalan havanın yoğunluğunun artması su buharının yükselmesini önler. Alçak basınç alanlarında ise yükselen havanın yoğunluğu daha az olacağı için buharlaşma daha kolaydır."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 19,
         "title": "bazalt:",
         "body": "Koyu gri ve siyah renklerde olan dış püskürük bir taştır. Mineralleri ince taneli olduğu için ancak mikroskopla görülebilir. Bazalt demir içerir. Bu nedenle ağır bir taştır."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 20,
         "title": "birinci zaman (paleozoik):",
         "body": "Günümüzden yaklaşık 225 milyon yıl önce sona erdiği varsayılan jeolojik zamandır. Birinci zamanın yaklaşık 375 milyon yıl sürdüğü tahmin edilmektedir.Zamanın önemli olayları Kaledonya ve Hersinya kıvrımlarının oluşumu. Özellikle karbon devrinde kömür yataklarının oluşumu. İlk kara bitkilerinin ortaya çıkışı. Balığa benzer ilk organizmaların ortaya çıkışı. Birinci zamanı karakterize eden canlılar graptolith ve trilobittir."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 21,
         "title": "boğaz:",
         "body": "Yarma vadi."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 22,
         "title": "bora:",
         "body": "Yugoslavya’nın iç kesimlerinden Adriyatik Denizi kıyılarına esen soğuk rüzgarlardır."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 23,
         "title": "boylam:",
         "body": "Dünya üzerindeki herhangi bir noktanın başlangıç meridyenine olan uzaklığının açısal değeridir.Q açısı, D noktasının başlangıç meridyenine olan uzaklığının açı cinsinden değeridir ve D noktasının boylam derecesini verir. \nÖrnek D noktasına ait Q açısının değeri 30 derece ise, D noktasının boylam derecesi 30° dir."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 24,
         "title": "boyun:",
         "body": "Birbirine ters yönde açılmış iki akarsu vadisinin en yüksek, iki doruk arasındaki alanın en alçak yerine boyun denir. Buralara bel ya da geçit de denir."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 25,
         "title": "bozkır:",
         "body": "İlkbahar yağışlarıyla yeşeren, yaz kuraklığı ile sararan kısa boylu otlardır. Bunlara step ya da bozkır denir."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 26,
         "title": "buharlaşma:",
         "body": "Atmosferdeki nemin kaynağı yeryüzündeki su kütleleridir. Sıcaklık arttıkça, havadaki nem açığı arttıkça, su yüzeyi genişledikçe, rüzgar estikçe, basınç azaldıkça, buharlaşma artar."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 27,
         "title": "buz dağı:",
         "body": "Aysberg."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 28,
         "title": "buzul gölleri:",
         "body": "Buzullaşma döneminde buzulların aşındırmasıyla oluşan çanaklardaki göllerdir."
     },
     {
+        "harf": "C",
         "userId": 3,
         "id": 29,
-        "harf": "C",
         "title": "çakıltaşı (konglomera):",
         "body": "Genelde yuvarlak akarsu çakıllarının doğal bir çimento maddesi yardımıyla yapışması sonucu oluşur."
     },
     {
+        "harf": "",
         "userId": 3,
         "id": 30,
         "title": "çakmaktaşı (silex):",
         "body": "Denizlerde eriyik halde bulunan silisyum dioksitin (SİO2) çökelmesi ile oluşan taştır. Kahverengi, gri, beyaz, siyah renkleri bulunur. Çok sert olması ve düzgün yüzeyler halinde kırılması nedeniyle ilkel insanlar tarafından alet yapımında kullanılmıştır."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 31,
         "title": "çekirdek:",
         "body": "Dünya'nın yoğunluk ve ağırlık bakımından en ağır elementlerin bulunduğu bölümüdür. Dünya’nın en iç bölümünü oluşturan çekirdeğin, 5120-2890 km’ler arasındaki kısmına dış çekirdek, 6371-5150 km’ler arasındaki kısmına iç çekirdek denir. İç çekirdekte bulunan demir-nikel karışımı çok yüksek basınç ve sıcaklık etkisiyle kristal haldedir. Dış çekirdekte ise bu karışım ergimiş haldedir."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 32,
         "title": "cıvalı barometre:",
         "body": "Üstü açık bir kaba daldırılmış, yukarı ucu kapalı bir cam borudur. Hava basıncı, boruyu dolduran cıva sütununu dengede tutar. Hava basıncı azalıp çoğaldıkça cıva sütunu da alçalıp yükselir. Cıvalı barometre camdan yapıldığı ve hep düz durması gerektiği için her zaman kullanımı kolay değildir."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 33,
         "title": "çiy:",
         "body": "Havanın açık ve durgun olduğu gecelerde, havadaki su buharının soğuk cisimler üzerinde su damlacıkları biçiminde yoğunlaşmasıdır. İlkbahar ve yaz aylarında görülür."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 34,
         "title": "çizgi (grafik) ölçek:",
         "body": "Haritalardaki küçültme oranını çizgi grafiği üzerinde gösteren ölçek türüdür. Kesir ölçeğe göre düzenlenir ve santimetre (cm)'nin üstündeki tüm uzunluk birimleri kullanılır."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 35,
         "title": "çizgisel hız:",
         "body": "Dairesel hareket yapan Yerküre üzerindeki bir noktanın birim zamanda eksen üzerindeki yer değiştirme hızıdır. Çizgisel hız, dünyanın küreselliği nedeniyle Ekvator'da en fazladır, kutuplara doğru azalır."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 36,
         "title": "coğrafi bölge:",
         "body": "Taşıdığı belirli Coğrafi özellikleri ile çevresinden ayrılan, kendi içinde benzerlik gösteren en geniş coğrafi birimdir. Coğrafi bölgelerin sınırları belirlenirken doğal koşullar, sosyal ve ekonomik özellikler temel alınır."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 37,
         "title": "coğrafi bölüm:",
         "body": "Bir coğrafi bölge içinde doğal koşullar, sosyal ve ekonomik özellikler bakımından farklılık gösteren küçük birimlerdir."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 38,
         "title": "coğrafi konum:",
         "body": "Yeryüzündeki herhangi bir alanın bulunduğu yere, o alanın coğrafi konumu denir. Coğrafi konum, matematik konum ve özel konum olarak iki şekilde ifade edilir."
     },
     {
+        "harf": "",
         "userId": 4,
         "id": 39,
         "title": "çökme dolini:",
         "body": "Yeraltında bulunan mağara sistemlerinin tavanlarının incelerek çökmesi ile oluşan karstik şekillerdir. Çökme dolinleri, derinliklerinin fazla oluşu, yamaçlarının eğimli oluşu ve tabanlarındaki iri bloklar halinde maddeler bulunması nedeniyle erime dolinlerinden kolayca ayırtedilirler."
     },
     {
+        "harf": "D",
         "userId": 4,
         "id": 40,
         "title": "dağ oluşumu:",
         "body": "orojenez."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 41,
         "title": "dalgalar:",
         "body": "Dalgalar, deniz ve göllerdeki kuzey sularının periyodik salınımlarıdır. Dalga oluşumunun temel nedeni rüzgarlardır. Deniz yüzeyini yalayarak esen rüzgarlar, sürtünme nedeniyle durgun sulara hareket kazandırır. Deniz yüzeyi pürüzlenir ve sürekli biçim değiştirir. Deniz yüzeyinin salınım hareketine dalgalanma deniz yüzeyinde beliren pürüze dalga denir. Rüzgarlar dışında depremler, volkanik hareketler ve deniz altında çökmelerde dalgaları oluşturur. Bu tür dalgalara tsunami denir."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 42,
         "title": "dam:",
         "body": "Köy ailelerinin geçici bir süre için yararlandıkları yerleşme biçimidir. Bölge köy yerleşmelerinde bir kısım aileler, birkaç aylık süre için köylerinden ayrılarak, kendi bahçe, tarla ve otlaklarındaki damlarda oturduktan sonra, tekrar köylerine dönerler."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 43,
         "title": "debi:",
         "body": "akarsu akımı."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 44,
         "title": "delta:",
         "body": "Akarsuların denize ulaştıkları yerlerde taşıdıkları maddeleri biriktirmesiyle oluşan üçgen biçimli alüvyal ovalardır. Deltalar, taban seviyesi ovalarının bir çeşididir. Onlardan ayrılan yönü biriktirmenin deniz içinde olmasıdır."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 45,
         "title": "deniz:",
         "body": "Okyanusların kıta içlerine doğru uzanan kollarına deniz denir. Denizler okyanuslarla bağlantılarına göre ikiye ayrılır."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 46,
         "title": "deprem:",
         "body": "Yerkabuğunun derinliklerinde doğal nedenlerle oluşan salınım ve titreşim hareketleridir."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 47,
         "title": "diyorit:",
         "body": "Birbirinden gözle kolayca ayrılabilen açık ve koyu renkli minerallerden oluşan iç püskürük bir taştır. İri taneli olanları, ince tanelilere göre daha kolay dağılır."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 48,
         "title": "dolin:",
         "body": "Kalker platolar üzerinde görülen, oval şekilli erime çukurluklarıdır. Genellikle derinlikleri az, genişlikleri fazladır. Türkiye’de özellikle Toroslar’da dolinler yaygın olarak görülür. Halk arasında kokurdan, koyak, tava gibi adlar verilir. Dolinler oluşum şekillerine göre iki gruba ayrılır"
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 49,
         "title": "don olayı:",
         "body": "Havanın açık ve durgun olduğu kış gecelerinde aşırı ısınma nedeniyle toprak donar. Don olayı tarımsal üretime büyük ölçüde zarar verir. Karasal bölgelerde don olayı sık görülür."
     },
     {
+        "harf": "",
         "userId": 5,
         "id": 50,
         "title": "dördüncü zaman (kuaterner):",
         "body": "Günümüzden 2 milyon yıl önce başladığı ve hala sürdüğü varsayılan jeolojik zamandır. Zamanın önemli olayları :İklimde büyük değişikliklerin ve dört buzul döneminin (Günz, Mindel, Riss, Würm) yaşanması. İnsanın ortaya çıkışı.Dördüncü zamanı karakterize eden canlılar mamut ve insandır."
     },
     {
+        "harf": "",
         "userId": 6,
         "id": 51,
         "title": "düden:",
         "body": "Kalkerli arazide erime ile oluşan daire biçimli kapalı çukurluklara düden denir. Düdenler yer altı sularını birbirine bağlayan kanallardır. Düdenlere halk arasında su çıkan, su batan gibi adlar da verilir."
     },
     {
+        "harf": "",
         "userId": 6,
         "id": 52,
         "title": "dünya:",
         "body": "Güneş Sistemi'nin 9 gezegeninden biridir ve Güneş'e olan uzaklığı bakımından 3. Sırada bulunur. Dünyanın Yıllık Hareketi"
     },
     {
+        "harf": "",
         "userId": 6,
         "id": 53,
         "title": "duvar ve atlas haritaları:",
