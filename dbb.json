@@ -1,95 +1,107 @@
 [
+    
     {
         "harf": "A",
-    },
-    {
         "userId": 1,
         "id": 1,
         "title": "açık havza:",
         "body": "Sularını denize ulaştırabilen havzalara açık havza denir"
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 2,
         "title": "açısal hız:",
         "body": "Dairesel hareket yapan Dünya üzerindeki bir noktanın birim zamanda oluşturduğu dönüş açısıdır. Dünya, ekseni çevresindeki hareketi sırasında 4 dakikada 1 derecelik, 1 saatte 15 derecelik, 24 saatte 360 derecelik dönüş yapar. Açısal hız, dünya üzerindeki her noktada aynıdır."
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 3,
         "title": "ağıl:",
         "body": "Hayvanların barındığı, çevresi taş veya ahşap ile çevrili yerlere ağıl adı verilmektedir. Ağıllar zamanla nüfusun artmasına bağlı olarak sürekli yerleşme haline gelebilir. \nSürü sahipleri tarafından kurulan ağıllar kış mevsiminde hayvanların korunması amacıyla kullanılır."
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 4,
         "title": "akarsu akımı (debisi):",
         "body": "Akarsuyun herhangi bir kesitinden birim zamanda geçen su miktarına (m3) akım veya debi denir"
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 5,
         "title": "akarsu rejimi:",
         "body": "Akarsuyun akımının yıl içerisinde gösterdiği değişmelere rejim ya da akım düzeni denir."
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 6,
         "title": "alizeler:",
         "body": "30° enlemlerinden (DYB) Ekvator’a (TAB) doğru esen rüzgarlardır. Dünya’nın ekseni çevresindeki hareketi nedeniyle sapmaya uğrayarak, Kuzey Yarım Küre’de kuzeydoğudan, Güney Yarım Küre’de güneydoğudan eserler. \nEn düzenli ve sürekli esen rüzgarlardır. \nOkyanus akıntılarının yönlerini düzenlerler. \nBaşlangıçta kuru olan bu rüzgarlar, deniz üzerinden aldıkları nemi Ekvator çevresine yağış olarak bırakırlar."
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 7,
         "title": "altimetre:",
         "body": "Madeni barometrelerin bir çeşididir. Yükseldikçe basıncın azalması kuralına dayanılarak, yüksekliklerin ölçülmesi amacıyla yapılmıştır."
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 8,
         "title": "andezit:",
         "body": "Eflatun, mor, pembemsi renkli dış püskürük bir taştır. Ankara taşı da denir. Dağıldığında killi topraklar oluşur."
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 9,
         "title": "aneroid barometre:",
         "body": "Madeni barometredir. Cıvalı barometrelerin kullanım alanının sınırlı olması ve taşıma zorluğu nedeniyle geliştirilmiştir."
     },
     {
+        "harf": "",
         "userId": 1,
         "id": 10,
         "title": "aphel:",
         "body": "Günöte."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 11,
         "title": "artezyen:",
         "body": "Basınçlı yeraltı sularıdır. İki geçirimsiz tabaka arasındaki geçirimli tabaka içinde bulunan sulardır. Tekne biçimli ovalar ve vadi tabanlarında bu tür sular bulunmaktadır."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 12,
         "title": "atmosfer:",
         "body": "Dünya’yı çepeçevre saran gaz örtüsüne atmosfer denir. Atmosferin alt sınırı, kara ve deniz yüzeyleriyle çakışır. Üst sınırını ise yerçekiminin etkisi belirler. Ekvator’dan kutuplara doğru yerçekimi arttığı için atmosferin şekli Dünya’nın şekli gibi küreseldir."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 13,
         "title": "atmosfer basıncı:",
         "body": "Atmosferi oluşturan gazların belli bir ağırlığı vardır. Gazların yeryüzündeki cisimler üzerine uyguladığı basınca atmosfer basıncı denir."
     },
     {
+        "harf": "",
         "userId": 2,
         "id": 14,
         "title": "aysberg (buz dağı):",
         "body": "Buzullardan kopup, denize kadar ulaşan kalın buzul parçaları deniz içinde ilerlemeye devam eder. Buzun yoğunluğu, deniz suyunun yoğunluğundan az olduğu için su tarafından kaldırılır. Yüzlerce metre kalınlıkta ve kilometrelerce uzunluktaki bu buz dağlarına aysberg denir."
     },
     {
+        "harf": "B",
         "userId": 2,
         "id": 15,
-        "harf": "B",
         "title": "bağıl nem:",
         "body": "Hava her zaman taşıyabileceği kadar nem yüklenmez. Genellikle havadaki su buharı miktarıyla doyma miktarı arasında bir fark bulunur. Bu farka doyma açığı (nem açığı) denir.Belli sıcaklıkta 1m3 havanın neme doyma oranına ise bağıl nem denir."
     },
