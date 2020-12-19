@@ -1,10 +1,8 @@
 [
     {
-        "harf": "A",
-    },
-    {
         "userId": 1,
         "id": 1,
+        "harf": "A",
         "title": "açık havza:",
         "body": "Sularını denize ulaştırabilen havzalara açık havza denir"
     },
