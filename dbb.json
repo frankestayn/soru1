@@ -1168,5 +1168,68 @@
         "id": 165,
         "title": "polder:",
         "body": "Çeşitli yöntemlerle okyanus, deniz, göl, bataklık ve akarsu gibi alanlardan dolgu yapılarak kazanılmış bölge."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 166,
+        "title": "peneplen:",
+        "body": "Geniş arazi bölümlerinin, akarsu aşınım faaliyetlerinin son döneminde deniz seviyesine yakın hale indirilmesiyle oluşmuş, az engebeli şekle peneplen (yontukdüz) denir."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 167,
+        "title": "paleozoik zaman:",
+        "body": "Birinci Zaman."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 168,
+        "title": "plato:",
+        "body": "Akarsu vadileriyle derince yarılmış düz ve geniş düzlüklerdir."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 169,
+        "title": "poyraz:",
+        "body": "Türkiye’nin hemen her yerinde esen rüzgarlardır. Yaz poyrazı serinletici etki yapar. Kışın ise kuru soğuklara neden olur."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 170,
+        "title": "peribacası:",
+        "body": "Özellikle volkan tüflerinin yaygın olarak bulunduğu vadi ve platoların yamaçlarında sel sularının aşındırması ile oluşan özel yeryüzü şekillerine peribacası denir. Bazı peribacalarının üzerinde şapkaya benzer, aşınmadan arta kalan sert volkanik taşlar bulunur. Bunlar volkanik faaliyet sırasında bölgeye yayılmış andezit ya da bazalt kütleridir. Peribacalarının en güzel örnekleri ülkemizde Nevşehir, Ürgüp ve Göreme çevresinde görülür."
+    },
+    {
+        "harf": "",
+        "userId": 19,
+        "id": 171,
+        "title": "perihel:",
+        "body": "Günberi."
+    },
+    {
+        "harf": "R",
+        "userId": 19,
+        "id": 172,
+        "title": "rüzgar:",
+        "body": "Hava kütlelerinin yatay yöndeki hareketlerine rüzgar denir."
+    },
+    {
+        "harf": "",
+        "userId": 19,
+        "id": 173,
+        "title": "rüzgar erozyonu:",
+        "body": "Bitki örtüsünün olmadığı ya da cılız olduğu yerlerde toprağın rüzgarlarla yerinden kopartılarak taşınmasına rüzgar erozyonu denir."
+    },
+    {
+        "harf": "",
+        "userId": 19,
+        "id": 174,
+        "title": "rüzgarın frekansı (esme sıklığı):",
+        "body": "Rüzgarın yıl içinde belirli bir yönden esme sıklığına rüzgar frekansı denir. Esme sıklığı rüzgar frekans gülleri ile gösterilir. Bir bölgede belirli bir sürede rüzgarların en sık estiği yöne egemen rüzgar yönü denir. Örneğin Ankara Meteoroloji İstasyonu verilerine göre, Ankara’ya ait yıllık ortalama rüzgar frekans gülüne bakıldığında, yıl içinde kuzeydoğudan esen rüzgarların toplam 5000 esme sayısı ile en fazla olduğu görülür. Yani egemen rüzgar yönü kuzeydoğudur."
     }
 ]
