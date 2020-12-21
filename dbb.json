@@ -1014,5 +1014,81 @@
         "id": 144,
         "title": "mistral:",
         "body": "Fransa’nın iç kesimlerinden Rhone Vadisi’ni izleyerek Akdeniz kıyılarına doğru kışın esen soğuk rüzgarlardır."
+    },
+    {
+        "harf": "N",
+        "userId": 16,
+        "id": 145,
+        "title": "nem:",
+        "body": "Atmosferdeki su buharı."
+    },
+    {
+        "harf": "",
+        "userId": 16,
+        "id": 146,
+        "title": "nüfus:",
+        "body": "Belirli bir zamanda sınırları belirlenmiş bir bölgede yaşayan birey sayısı."
+    },
+    {
+        "harf": "",
+        "userId": 16,
+        "id": 147,
+        "title": "nüfus artış hızı:",
+        "body": "Bir yerin nüfusunda belirli bir sürede meydana gelen artışın toplam nüfusa oranı. Nüfus artış hızı genellikle yıllık olarak ve yüzde üzerinden ifade edilir."
+    },
+    {
+        "harf": "",
+        "userId": 16,
+        "id": 148,
+        "title": "nüfus artışı:",
+        "body": " Doğumların ölümlerden fazla olması ya da göçlerle bir yerin nüfusunda meydana gelen çoğalma."
+    },
+    {
+        "harf": "",
+        "userId": 16,
+        "id": 149,
+        "title": "nüfus politikası:",
+        "body": "Nüfus artışına yavaşlatıcı ya da hızlandırıcı etkide bulunabilecek tedbirlerin bütünü."
+    },
+    {
+        "harf": "",
+        "userId": 16,
+        "id": 150,
+        "title": "Nüfus Özellikleri:",
+        "body": "Nüfusun yaş grupları, cinsiyet, okuryazarlık, kır ve kente göre dağılış vb. özellikleri."
+    },
+    {
+        "harf": "",
+        "userId": 17,
+        "id": 151,
+        "title": "nüfus yatırımları:",
+        "body": "Demografik yatırımlar. Artan nüfusa bağlı olarak eğitim, sağlık, konut, ulaşım vb. yatırımların artması durumu."
+    },
+    {
+        "harf": "",
+        "userId": 17,
+        "id": 152,
+        "title": "nüfusun yaşlanması:",
+        "body": "Doğumların azalması, sağlık şartlarının çok ileri seviyede olması sonucunda ortalama ömür süresinin uzaması ile bir yerin nüfusunda yaşlı kişilerin oranının artması."
+    },
+    {
+        "harf": "O",
+        "userId": 17,
+        "id": 153,
+        "title": "otoyol:",
+        "body": " Hızlı bir trafik akımı sağlamak amacıyla yapılan çok şeritli, çift yönlü geniş yol, otoban."
+    },
+    {
+        "harf": "",
+        "userId": 17,
+        "id": 154,ozon:",
+        "body": "Molekülü üç oksijen atomundan oluşmuş, ağır kokusu olan gaz."
+    },
+    {
+        "harf": "",
+        "userId": 17,
+        "id": 155,
+        "title": "ozon tabakası:",
+        "body": "Ozon gazlarının oluşturduğu katman."
     }
 ]
