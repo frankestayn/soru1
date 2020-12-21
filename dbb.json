@@ -1054,7 +1054,7 @@
         "harf": "",
         "userId": 16,
         "id": 150,
-        "title": "Nüfus Özellikleri:",
+        "title": "nüfus özellikleri:",
         "body": "Nüfusun yaş grupları, cinsiyet, okuryazarlık, kır ve kente göre dağılış vb. özellikleri."
     },
     {
@@ -1091,5 +1091,82 @@
         "id": 155,
         "title": "ozon tabakası:",
         "body": "Ozon gazlarının oluşturduğu katman."
+    },
+    {
+        "harf": "Ö",
+        "userId": 17,
+        "id": 155,
+        "title": "ölçek:",
+        "body": "Haritalardaki küçültme oranı."
+    },
+    {
+        "harf": "",
+        "userId": 17,
+        "id": 156,
+        "title": "ölüm oranı:",
+        "body": "Bin nüfusa düşen yıllık ortalama ölüm sayısı."
+    },
+    {
+        "harf": "",
+        "userId": 17,
+        "id": 157,
+        "title": "ökümen:",
+        "body": "Dünya üzerindeki yerleşilmiş ya da yerleşilebilir alanlar."
+    },
+    {
+        "harf": "P",
+        "userId": 17,
+        "id": 158,
+        "title": "paleoarkeoloji:",
+        "body": "İnsanlığın ilk ortaya çıkışından Neolitik Çağ’ın başlamasına kadar süren arkeolojik çağ ve bu çağı inceleyen bilim dalı."
+    },
+    {
+        "harf": "",
+        "userId": 17,
+        "id": 159,
+        "title": "paralel:",
+        "body": "Dünya üzerinde çizildiği varsayılan, Ekvator’a paralel çemberlerden her biri."
+    },
+    {
+        "harf": "",
+        "userId": 17,
+        "id": 160,
+        "title": "pestisitler:",
+        "body": "Zararli bitki ve hayvanları yok etmek için tarım alanlarında kullanılan insan üretimi kimyasal maddeler."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 161,
+        "title": "plan:",
+        "body": "Yeryüzünün belirli bir kısmının büyük ölçek kullanılarak çizilmiş haritası."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 162,
+        "title": "planlama:",
+        "body": "Ulaşılacak amaçları belirleyerek bu amaçlara ulaşmak için yapılacak olanları belirleme ve sürece hazırlanma işi."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 163,
+        "title": "profil:",
+        "body": "Yeryüzü şekillerinin yandan görünüşünü gösteren çizim."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 164,
+        "title": "projeksiyon:",
+        "body": "Küremsi yeryüzünü düzleme aktarma yöntemleri. 2. İz düşüm."
+    },
+    {
+        "harf": "",
+        "userId": 18,
+        "id": 165,
+        "title": "polder:",
+        "body": "Çeşitli yöntemlerle okyanus, deniz, göl, bataklık ve akarsu gibi alanlardan dolgu yapılarak kazanılmış bölge."
     }
 ]
