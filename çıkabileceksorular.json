@@ -1,32 +1,31 @@
 [
     
     {
-        "title": "volkanik dağlardan hangisinin bulunduğu bölge diğerlerinden farklıdır?",
-        "body": "Süphan"
+        "title": "Depremin büyüklüğünü ve süresini ölçen alete ne ad verilir ?",
+        "body": "Simograf"
     },
     {
-        "title": "açısal hız:",
-        "body": "Dairesel hareket yapan Dünya üzerindeki bir noktanın birim zamanda oluşturduğu dönüş açısıdır. Dünya, ekseni çevresindeki hareketi sırasında 4 dakikada 1 derecelik, 1 saatte 15 derecelik, 24 saatte 360 derecelik dönüş yapar. Açısal hız, dünya üzerindeki her noktada aynıdır."
+        "title": "Yazları sıcak ve kurak; kışları ise soğuk ve karlı geçen bir bölgede aşağıdaki iklimlerden hangisi görülür?",
+        "body": "Karasal iklim"
+    {
+        "title": "Türkiye’nin en fazla yağış alan ili hangisidir?",
+        "body": "Rize"
     },
     {
-        "title": "ağıl:",
-        "body": "Hayvanların barındığı, çevresi taş veya ahşap ile çevrili yerlere ağıl adı verilmektedir. Ağıllar zamanla nüfusun artmasına bağlı olarak sürekli yerleşme haline gelebilir. \nSürü sahipleri tarafından kurulan ağıllar kış mevsiminde hayvanların korunması amacıyla kullanılır."
+        "title": "Pirinç hangi ürünün kabuğunun soyulması ile elde edilir?",
+        "body": "Çeltik"
     },
     {
-        "title": "akarsu akımı (debisi):",
-        "body": "Akarsuyun herhangi bir kesitinden birim zamanda geçen su miktarına (m3) akım veya debi denir"
+        "title": "Gülü ile meşhur olan ilimiz hangisidir?",
+        "body": "Isparta"
     },
     {
-        "title": "akarsu rejimi:",
-        "body": "Akarsuyun akımının yıl içerisinde gösterdiği değişmelere rejim ya da akım düzeni denir."
+        "title": "Yerden fışkırarak çıkan sıcak su kaynaklarına ne denir?",
+        "body": "Gayzer"
     },
     {
-        "title": "alizeler:",
-        "body": "30° enlemlerinden (DYB) Ekvator’a (TAB) doğru esen rüzgarlardır. Dünya’nın ekseni çevresindeki hareketi nedeniyle sapmaya uğrayarak, Kuzey Yarım Küre’de kuzeydoğudan, Güney Yarım Küre’de güneydoğudan eserler. \nEn düzenli ve sürekli esen rüzgarlardır. \nOkyanus akıntılarının yönlerini düzenlerler. \nBaşlangıçta kuru olan bu rüzgarlar, deniz üzerinden aldıkları nemi Ekvator çevresine yağış olarak bırakırlar."
-    },
-    {
-        "title": "altimetre:",
-        "body": "Madeni barometrelerin bir çeşididir. Yükseldikçe basıncın azalması kuralına dayanılarak, yüksekliklerin ölçülmesi amacıyla yapılmıştır."
+        "title": "İstanbul hangi coğrafi bölgemizde yer almaktadır?",
+        "body": "Marmara bölgesi"
     },
     {
         "title": "andezit:",
