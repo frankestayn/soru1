@@ -1,8 +1,15 @@
 [
-    
+     {
+        "title": "Turizm gelirleri en fazla olan bölgemiz hangisidir?",
+        "body": "Marmara Bölgesi"
+    },
+    {
+        "title": "Yatak uzunluğu en fazla olan akarsuyumuz hangisidir?",
+        "body": "Karasal iklim"
+    },
     {
         "title": "Depremin büyüklüğünü ve süresini ölçen alete ne ad verilir ?",
-        "body": "Simograf"
+        "body": "Kızılırmak"
     },
     {
         "title": "Yazları sıcak ve kurak; kışları ise soğuk ve karlı geçen bir bölgede hangi klim görülür?",
@@ -39,5 +46,10 @@
     {
         "title": "En az yağış alan bölgemiz neresidir?",
         "body": "İç Anadolu Bölgesi"
+    },
+    {
+        "title": "Türkiye deki kapalı havzaların en belirgin özelliği nedir?",
+        "body": "Sularının tatlı olmamasıdır."
     }
+    
 ]
