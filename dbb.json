@@ -1231,5 +1231,89 @@
         "id": 174,
         "title": "rüzgarın frekansı (esme sıklığı):",
         "body": "Rüzgarın yıl içinde belirli bir yönden esme sıklığına rüzgar frekansı denir. Esme sıklığı rüzgar frekans gülleri ile gösterilir. Bir bölgede belirli bir sürede rüzgarların en sık estiği yöne egemen rüzgar yönü denir. Örneğin Ankara Meteoroloji İstasyonu verilerine göre, Ankara’ya ait yıllık ortalama rüzgar frekans gülüne bakıldığında, yıl içinde kuzeydoğudan esen rüzgarların toplam 5000 esme sayısı ile en fazla olduğu görülür. Yani egemen rüzgar yönü kuzeydoğudur."
-    }
+    },
+    {
+        "harf": "S",
+        "userId": 20,
+        "id": 175,
+        "title": "sarkıt-dikit:",
+        "body": "Kalsiyum karbonatça zengin suların mağara tavanından sızarak içindeki kirecin tavanda birikmesi ile sarkıtlar, damlayarak tabanında birikmesi ile dikitler oluşur. Karstik alanlardaki mağaralarda görülen bu şekillerin en güzel örnekleri Damlataş Mağarası’nda bulunmaktadır."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 176,
+        "title": "seki (taraça):",
+        "body": "Yatağına alüvyonlarını yaymış olan akarsuyun yeniden canlanarak yatağını kazması ve derinleştirmesi sonucunda oluşan basamaklardır. Taban seviyesinin alçalması nedeniyle, tabanlı bir vadide akan akarsuyun aşındırma gücü artar. Yatağını derine doğru kazan akarsu vadi tabanına gömülür. Eski vadi tabanlarının yüksekte kalması ile oluşan basamaklara seki ya da taraça denir."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 177,
+        "title": "şemosfer:",
+        "body": "Atmosferin stratosfer ile İyonosfer arasındaki katmanıdır."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 178,
+        "title": "sıcaklık:",
+        "body": "Sıcaklığın yüksek olduğu yerlerde havanın nem alma kapasitesi de yüksek olduğu için buharlaşma artar, düşük olduğu yerlerde ise buharlaşma azalır."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 179,
+        "title": "sirk buzulu:",
+        "body": "Dağların tepesindeki ve yüksek yamaçlardaki küçük çanaklarda yeni oluşmaya başlayan buz türüdür."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 180,
+        "title": "sarkıt-dikit:",
+        "body": ""
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 180,
+        "title": "sırt:",
+        "body": "İki akarsu vadisini birbirinden ayıran ve birbirine ters yönde eğimli yüzeyleri birleştiren yeryüzü şeklidir. Sırtların üzeri düz olabileceği gibi keskin de olabilir."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 181,
+        "title": "siyasi ve idari haritalar:",
+        "body": "Yeryüzünde veya bir kıtada bulunan ülkeleri, bir ülkenin idari bölünüşünü, yerleşim merkezlerini gösteren haritalardır. Bu haritalardan uzunluk ve alan bulmada yararlanılır. Ancak yer şekilleri hakkında bilgi edinilemez."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 182,
+        "title": "siyenit:",
+        "body": "Yeşilimsi, pembemsi renkli iç püskürük bir taştır. Adını Mısır’daki Syene (Asuvan) kentinden almıştır. Siyenit dağılınca kil oluşur."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 183,
+        "title": "step:",
+        "body": "Bozkır."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 184,
+        "title": "stratosfert:",
+        "body": "Troposferin üstündeki atmosfer katmandır."
+    },
+    {
+        "harf": "",
+        "userId": 20,
+        "id": 185,
+        "title": "sürekli rüzgarlar:",
+        "body": "Genel Hava dolaşımına bağlı, sürekli basınç kuşakları arasında yıl boyunca yön değiştirmeden esen rüzgarlardır."
+    }       
 ]
