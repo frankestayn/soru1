@@ -1443,11 +1443,131 @@
         "body": "Genişleyip, derinleşen dolinlerin birleşmesiyle oluşan, dolinlerden daha büyük çukurluklardır. Uvaların düzensiz şekle sahip olması ve tabanlarındaki erimeden geriye kalan kalker çıkıntıları dolinlerden kolayca ayırtedilmesini sağlar."
     },
     {
+        "harf": "V",
+        "userId": 23,
+        "id": 204,
+        "title": "vadi:",
+        "body": "Akarsuyun içinde aktığı, kaynaktan ağıza doğru sürekli inişi bulunan, uzun çukurluklardır."
+    },
+    {
         "harf": "",
-        "userId": 22,
-        "id": 202,
-        "title": "boş:",
-        "body": ""
+        "userId": 23,
+        "id": 205,
+        "title": "vadi buzulu:",
+        "body": "Sürekli beslenerek sirkten taşan ve vadi boyunca aşağı hareket eden buzul türüdür."
+    },
+    {
+        "harf": "",
+        "userId": 23,
+        "id": 206,
+        "title": "volkan bacası:",
+        "body": "Mağmanın yeryüzüne ulaşıncaya kadar geçtiği yola volkan bacası denir."
+    },
+    {
+        "harf": "",
+        "userId": 23,
+        "id": 207,
+        "title": "volkan konisi:",
+        "body": "Lav, kül, volkan bombası gibi volkanik maddelerin üst üste yığılması ile oluşan koni biçimli yükseltiye volkan konisi, koni üzerinde oluşan çukurluğa krater denir"
+    },
+    {
+        "harf": "",
+        "userId": 23,
+        "id": 208,
+        "title": "volkanik göller:",
+        "body": "Volkanik patlamalar ile oluşan çanaklardaki göllerdir. Krater gölü, kaldera gölü ya da maar gölü gibi çeşitleri vardır."
+    },
+    {
+        "harf": "",
+        "userId": 23,
+        "id": 209,
+        "title": "volkanik tüf:",
+        "body": "Volkanlardan çıkan kül ve irili ufaklı parçaların üst üste yığılarak yapışması ile oluşan taşlara volkan tüfü denir."
+    },
+    {
+        "harf": "",
+        "userId": 23,
+        "id": 210,
+        "title": "volkanizma:",
+        "body": "Yerin derinliklerinde bulunan magmanın patlama ve püskürme biçiminde yeryüzüne çıkmasına volkanizma denir."
+    },
+    {
+        "harf": "Y",
+        "userId": 24,
+        "id": 211,
+        "title": "yağış:",
+        "body": "Havadaki nemin doyma noktasını aşıp, su damlacıkları, buz kristalleri veya buz parçacıkları şeklinde yoğunlaşmasına yağış denir."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 212,
+        "title": "yamaç:",
+        "body": "Yeryüzündeki eğimli yüzeylerdir."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 213,
+        "title": "yarma vadi (boğaz):",
+        "body": "Akarsuyun, iki düzlük arasında bulunan sert kütleyi derinlemesine aşındırması sonucunda oluşur. Vadi yamaçları dik, tabanı dardır. Akarsuyun yukarı bölümlerinde görülür."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 214,
+        "title": "yayla:",
+        "body": "Yaz aylarında hayvan otlatmak veya tarımsal faaliyette bulunmak amacıyla gidilen geçici yerleşmelerdir. Yaylalar dinlenmek amacıyla gidilen yazlık sayfiye yerleri de olabilir."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 215,
+        "title": "yerel saat:",
+        "body": "Bir noktada Güneş'in gökyüzündeki konumuna göre belirlenen saate yerel saat denir. Aynı boylam üzerindeki noktalarda yerel saat aynıdır. Herhangi bir meridyenin Güneşin tam karşısına geldiği an, meridyen üzerindeki tüm noktalarda yerel saat 12.00'dir.Güneş, doğudaki bir noktada batıdaki yerlere göre daha önce doğar ve daha önce batar; bu nedenle yerel saat doğudaki yerlerde daha ileridir."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 216,
+        "title": "yıldız:",
+        "body": "Türkiye’ye kuzeyden esen soğuk rüzgarlardır. Karadeniz kıyılarına yağış bırakırlar. Kar yağışına neden olurlar. Karayel ile karışık estiğinde kar fırtınaları görülür."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 217,
+        "title": "yoğunlaşma:",
+        "body": "Atmosferdeki su buharının gaz halden sıvı ya da katı hale geçmesine yoğunlaşma denir. Yoğunlaşmanın temel nedeni sıcaklığın düşmesidir."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 218,
+        "title": "yöre:",
+        "body": "Bölüm içerisinde farklı özelliklere sahip, bölümden daha küçük birimlerdir. Iğdır Yöresi, Göller Yöresi, Menteşe Yöresi gibi."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 219,
+        "title": "yörünge düzlemi:",
+        "body": "Ekliptik."
+    },
+    {
+        "harf": "",
+        "userId": 24,
+        "id": 220,
+        "title": "yükseklik:",
+        "body": "Ağır bir gaz olan su buharı, yerçekiminin etkisiyle fazla yükselemez. Yoğunlaşma sonucu yağış tekrar yeryüzüne düşer. Yükseldikçe hava soğuyacağından havanın su buharı taşıma kapasitesi dolayısıyla buharlaşma azalır."
+    },
+    {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "zoocoğrafya:",
+        "body": "Hayvan dağılışını inceleyen bilim dalı."
     }
+
     
 ]
