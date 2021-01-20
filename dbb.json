@@ -1271,13 +1271,6 @@
         "harf": "",
         "userId": 20,
         "id": 180,
-        "title": "sarkıt-dikit:",
-        "body": ""
-    },
-    {
-        "harf": "",
-        "userId": 20,
-        "id": 180,
         "title": "sırt:",
         "body": "İki akarsu vadisini birbirinden ayıran ve birbirine ters yönde eğimli yüzeyleri birleştiren yeryüzü şeklidir. Sırtların üzeri düz olabileceği gibi keskin de olabilir."
     },
@@ -1315,5 +1308,146 @@
         "id": 185,
         "title": "sürekli rüzgarlar:",
         "body": "Genel Hava dolaşımına bağlı, sürekli basınç kuşakları arasında yıl boyunca yön değiştirmeden esen rüzgarlardır."
-    }       
+    },
+    {
+        "harf": "T",
+        "userId": 21,
+        "id": 186,
+        "title": "takke buzulu:",
+        "body": "Dağların bütün yamaçlarını kuşatan buzul türüdür."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 187,
+        "title": "taraça:",
+        "body": "Seki."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 188,
+        "title": "taşküre (litosfer):",
+        "body": "Dünya'nın manto katmanının üstünde yer alan ve yeryüzüne kadar uzanan katmanıdır. Kalınlığı ortalama 100 km’dir. Taşküre’nin ortalama 35 km’lik üst bölümüne yerkabuğu denir."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 189,
+        "title": "tebeşir:",
+        "body": "Derin deniz canlıları olan tek hücreli Globugerina (Globijerina)’ların birikimi sonucu oluşur. Saf, yumuşak, kolay dağılabilen bir kalkerdir. Gözenekli olduğu için suyu kolay geçirir."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 190,
+        "title": "tektonik göller:",
+        "body": "Yerkabuğunun tektonik hareketleri sırasında oluşan çanaklardaki göllerdir."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 191,
+        "title": "tepe:",
+        "body": "Bir doruk noktası ve onu çevreleyen yamaçlardan oluşmaktadır."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 192,
+        "title": "termik basınç:",
+        "body": "Dünya'nın küreselliği nedeniyle ısınma ve soğumaya bağlı oluşan basınçlardır."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 193,
+        "title": "termik ekvator:",
+        "body": "Meridyenlerin en sıcak noktalarını birleştiren eğriye termik ekvator denir."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 193,
+        "title": "ters alizeler (üst alizeler):",
+        "body": "Ekvator’dan (TAB), 30° enlemlerine (DYB) doğru esen üst rüzgarlardır. Her yerde ve her zaman görülmezler. Yeteri kadar sürekli ve güçlü değillerdir. 30° enlemleri çevresinde aşağıya doğru alçaldığından yağış oluşumunu engellerler."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 194,
+        "title": "topoğrafya haritaları:",
+        "body": "İzohips (eş yükselti) eğrisi yöntemi ile yapılır. Araziyi ölçekleri oranında ayrıntıları ile gösterirler. Ölçekleri 1 / 20.000 ile 1 / 500.000 arasında değişir. 1 / 20.000'den büyük ölçekli olanlar kadastro işlerinde ve askeri amaçlarla kullanılır. Bu haritalardan ölçek, uzunluk alan ve eğim hesaplamada yararlanılır."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 195,
+        "title": "toprak haritaları:",
+        "body": "Bir bölgenin toprak özellikleri ve dağılışları hakkında bilgi veren haritalardır. Bu haritalardan, yetiştirilecek ürünlerin belirlenmesi, buna bağlı olarak topraklardan daha iyi verim alınabilmesi gibi bir çok konuda yararlanılır."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 196,
+        "title": "traverten:",
+        "body": "Kalsiyum biokarbonatlı yer altı sularının mağara boşluklarında veya yeryüzüne çıktıkları yerlerde içlerindeki kalsiyum karbonatın çökelmesi sonucu oluşan kimyasal tortul bir taştır."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 197,
+        "title": "troposfer:",
+        "body": "Atmosferin, yeryüzüne temas eden, alt bölümüdür."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 198,
+        "title": "tsunami:",
+        "body": "Dalgalar."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 199,
+        "title": "tundra:",
+        "body": "Düşük sıcaklığa ve kuraklığa uyum sağlamış olan kısa boylu çalılar, otlar ve yosunlardır. Bu bitki örtüsüne tundra adı verilir."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 200,
+        "title": "türkiye’nin matematiksel konumu:",
+        "body": "Türkiye 36° - 42° Kuzey enlemleri, 26°-45° Doğu boylamları arasında yer alır."
+    },
+    {
+        "harf": "",
+        "userId": 21,
+        "id": 201,
+        "title": "turunçgiller (narenciye):",
+        "body": "Portakal, mandalina, greyfurt, turunç ve limon bitkilerine genel olarak turunçgil denir."
+    },
+    {
+        "harf": "U",
+        "userId": 22,
+        "id": 202,
+        "title": "ççüncü zaman (neozoik):",
+        "body": "Günümüzden yaklaşık 2 milyon yıl önce sona erdiği varsayılan jeolojik zamandır. Üçüncü zamanın yaklaşık 63 milyon yıl sürdüğü tahmin edilmektedir.Zamanın önemli olaylarıKıtaların bugünkü görünümünü kazanmaya başlaması. Linyit havzalarının oluşumu. Bugünkü iklim bölgelerinin ve bitki topluluklarının belirmeye başlaması. Alp kıvrım sisteminin gelişmesi. Nümmilitler ve memelilerin ortaya çıkışı. Üçüncü zamanı karakterize eden canlılar nummilit, hipparion, elephas ve mastadondur."
+    },
+    {
+        "harf": "",
+        "userId": 22,
+        "id": 203,
+        "title": "uvala:",
+        "body": "Genişleyip, derinleşen dolinlerin birleşmesiyle oluşan, dolinlerden daha büyük çukurluklardır. Uvaların düzensiz şekle sahip olması ve tabanlarındaki erimeden geriye kalan kalker çıkıntıları dolinlerden kolayca ayırtedilmesini sağlar."
+    },
+    {
+        "harf": "",
+        "userId": 22,
+        "id": 202,
+        "title": "boş:",
+        "body": ""
+    },
+    
 ]
