@@ -1,6 +1,21 @@
 [
      {
         "bilgi": "Önemli Bilgi",
+        "title": "En fazla sınır kapımız bulunan Ülke hangisidir?",
+        "body": "Suriye"
+    },
+     {
+        "bilgi": "Önemli Bilgi",
+        "title": "En fazla sınır kapısı bulunan ilimiz hangisidir?",
+        "body": "Edirne"
+    },
+     {
+        "bilgi": "Önemli Bilgi",
+        "title": "En fazla ülke ile sınırı olan ilimiz hangisidir?",
+        "body": "Iğdır"
+    },
+     {
+        "bilgi": "Önemli Bilgi",
         "title": "Turizm gelirleri en fazla olan bölgemiz hangisidir?",
         "body": "Marmara Bölgesi"
     },
