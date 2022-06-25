@@ -843,13 +843,6 @@
     {
         "harf": "",
         "userId": 13,
-        "id": 122,
-        "title": "konveksiyonel yağış:",
-        "body": "Isınan havanın yükselerek soğuması ile oluşan yağışlardır."
-    },
-    {
-        "harf": "",
-        "userId": 13,
         "id": 123,
         "title": "epilog:",
         "body": "Son deyiş."
@@ -900,113 +893,113 @@
         "harf": "",
         "userId": 13,
         "id": 130,
-        "title": "kuraklık sınırı:",
-        "body": "Bir bölgenin sıcaklık ve nem koşulları tarım ürünlerini, sulamaya duyulan gereksinimi etkilemektedir.Yaz kuraklığının belirgin olduğu bir yerde sulamaya duyulan gereksinim fazladır. Buna kuraklık sınırı denir."
+        "title": "fabl:",
+        "body": "Kahramanları hayvan, bitki ya da eşya olan; bunların insan gibi konuşturulmasıyla oluşan ders verici yazı. Genelde manzum yazılardır."
     },
     {
         "harf": "L",
         "userId": 14,
         "id": 131,
-        "title": "lapya:",
-        "body": "Kalkerli yamaçlarda yağmur ve kar sularının yüzeyi eriterek açtıkları küçük oluklardır. Oluşan çukurluklar keskin sırtlarda yan yana sıralandığından yüzey pürüzlüdür. Büyüklükleri birkaç cm ile birkaç metre arasında değişir."
+        "title": "ahriye:",
+        "body": "Kasidede, divan şairinin kendisini övdüğü bölüm."
     },
     {
         "harf": "",
         "userId": 14,
         "id": 132,
-        "title": "lav:",
-        "body": "Volkanlardan çıkarak yeryüzüne kadar ulaşan eriyik haldeki malzemeye lav denir."
+        "title": "fars:",
+        "body": "Toplumdaki düzensizlikleri alaylı anlatımla yeren bir oyun, halk komedisi. Ayrıca İran’ın güneybatısında yaşayan halk veya bu halkın soyundan olan kimse"
     },
     {
         "harf": "",
         "userId": 14,
         "id": 133,
-        "title": "lejant:",
-        "body": "Harita Anahtarı."
+        "title": "fecriati:",
+        "body": "Ahmet Haşim ve arkadaşlarının 1908’de oluşturduğu edebiyat topluluğu."
     },
     {
         "harf": "",
         "userId": 14,
         "id": 133,
-        "title": "litosfer:",
-        "body": "Taşküre."
+        "title": "feeri:",
+        "body": "Kahramanları melek, cin, şeytan… gibi varlıklardan meydana gelen masalların oyunlaştırılmış biçimi."
     },
     {
         "harf": "M",
         "userId": 14,
         "id": 134,
-        "title": "mağara:",
-        "body": "Kalkerli arazilerde çatlaklar boyunca yeraltına sızan suların oluşturduğu büyük boşluklara mağara denir. Damlataş, Narlıkuyu, Düden, İnsuyu, Kızılin mağaraları en ünlüleridir."
+        "title": "fıkra:",
+        "body": "Gazete çevresinde gelişen ve günlük sorunlar hakkında, yazarın kişisel görüş ve düşüncelerini belirten öğretici metin türü"
     },
     {
         "harf": "",
         "userId": 14,
         "id": 135,
-        "title": "maksimum nem (doyma miktarı):",
-        "body": "1m3 havanın belli bir sıcaklıkta taşıyabileceği nemin gram olarak ağırlığıdır. Hava kütleleri ısındıkça genleşip hacimleri artar. Bu nedenle nem alma ve taşıma kapasiteleri de artar. Eğer hava taşıyabileceği kadar nem alırsa doyma noktasına ulaşır ve doymuş hava adını alır.Örneğin 20°C sıcaklığa sahip bir hava kütlesinin taşıyabileceği nem miktarı 17,32 gr/m3’tür. Bu hava kütlesinin sıcaklığı 30°C’ ye yükseldiğinde havanın hacmi genişleyeceği için taşıyabileceği nem miktarı da artar ve doyma noktası 30,4 ge/m3’e yükselir. Bu nedenle hava kütlesinin doyması için aradaki fark (13.08 gr) kadar nem yüklenmesi gerekir."
+        "title": "fontetik sanatlar:",
+        "body": "Ses unsuruna dayanan sanatlar."
     },
     {
         "harf": "",
         "userId": 14,
         "id": 136,
-        "title": "manto:",
-        "body": "Dünya'nın Litosfer ile çekirdek arasındaki katmandır. 100-2890 km’ler arasında bulunan mantonun yoğunluğu 3,3-5,5 g/cm3 sıcaklığı 1900-3700 °C arasında değişir. Manto, yer hacminin en büyük bölümünü oluşturur. Yapısında silisyum, magnezyum , nikel ve demir bulunmaktadır. Mantonun üst kesimi yüksek sıcaklık ve basınçtan dolayı plastiki özellik gösterir. Alt kesimleri ise sıvı halde bulunur. Bu nedenle mantoda sürekli olarak alçalıcı-yükselici hareketler görülür."
+        "title": "fütürizm:",
+        "body": "İtalyan şairi Marinetti’nin 1909’da Fransa’da ortaya koyduğu edebiyat akımı."
     },
     {
         "harf": "",
         "userId": 14,
         "id": 137,
-        "title": "matematik konum:",
-        "body": "Dünya üzerinde bir nokta veya alanın yerinin belirlenmesi için, o noktanın Ekvator'a ve başlangıç meridyenine olan uzaklığının bilinmesi gerekir. Bunun için enlem ve boylam kavramlarından yararlanılır. Örnek Türkiye 36° - 42° Kuzey enlemleri, 26° - 45° Doğu boylamları arasında yer alır."
+        "title": "gazel:",
+        "body": "Beyit sayısı 5 -15 olan, ilk beytinin dizeleri birbiriyle, sonraki beyitlerinin ikinci dizeleri birinci beyitle kafiyeli, genellikle lirik konularda yazılan divan şiiri nazım şekli."
     },
     {
         "harf": "",
         "userId": 14,
         "id": 138,
-        "title": "menderes:",
-        "body": "Akarsu yatak eğiminin azalması, akarsuyun akış hızının ve aşındırma gücünün azalmasına neden olur. Akarsu büklümler yaparak akar. Akarsuyun geniş vadi tabanı içinde, eğimin azalması nedeniyle yaptığı büklümlere menderes denir. Menderesler yapan akarsuyun, uzunluğu artar ancak akımı azalır.Taban seviyesinin alçalması nedeniyle menderesler yapan bir akarsuyun, yatağına gömülmesiyle oluşan şekle gömük menderes denir."
+        "title": "girizgah:",
+        "body": "Kasidelerle, başlangıçtan sonra asıl konuya geçmek için söylenen beyit.   "
     },
     {
         "harf": "",
         "userId": 14,
         "id": 139,
-        "title": "mercan kalkeri:",
-        "body": "Mercan iskeletlerinden oluşan organik bir taştır. Temiz, sıcak ve derinliğin az olduğu denizlerde bulunur. Ada kenarlarında topluluk oluşturanlara atol denir. Kıyı yakınlarında olanlar ise, mercan resifleridir"
+        "title": "günlük:",
+        "body": "Günü gününe saptanmış olaylar, duygular, düşünceler ve izlenimlerden oluşan öğretici metin türü, jurnal."
     },
     {
         "harf": "",
         "userId": 14,
         "id": 140,
-        "title": "mermer:",
-        "body": "Kalkerin yüksek sıcaklık ve basınç altında değişime uğraması, yani metamorfize olması sonucu oluşur."
+        "title": "hamse:",
+        "body": "Beş mesneviden oluşan yapıtlar topluluğu."
     },
     {
         "harf": "",
         "userId": 15,
         "id": 141,
-        "title": "mezozoik zaman:",
-        "body": "ikinci zaman."
+        "title": "hatıra (anı:",
+        "body": "Bir kimsenin kendi başından geçen olayları veya tanık olduğu olay ve olguları; gözlemlerine, izlenimlerine, bilgilerine dayanarak kimi zaman kişisel duygularını ve düşüncelerini de katarak anlattığı yazı türü."
     },
     {
         "harf": "",
         "userId": 15,
         "id": 142,
-        "title": "mezra:",
-        "body": "bazı ailelerin tarım alanlarının az olması, kan davaları gibi nedenlerle bulundukları sürekli yerleşmelerden ayrılıp daha uzak bir yere yerleşmesiyle oluşmuş yerleşmelerdir. Tarımsal faaliyetler hayvancılığa göre ön plandadır. Bir kaç ev ve eklentilerden oluşan mezralar zamanla sürekli yerleşme haline gelebilir. Örneğin Elazığ, Harput’un bir mezrası iken zamanla büyüyerek kent haline gelmiştir."
+        "title": "hece ölçüsü:",
+        "body": " Dizelerdeki hece sayısının eşitliğine dayanan, halk şiiri ölçüsü olarak bilinen millî ölçümüz."
     },
     {
         "harf": "",
         "userId": 15,
         "id": 143,
-        "title": "mezozoik zaman:",
-        "body": "ikinci zaman."
+        "title": "hiciv:",
+        "body": "Bir kişiyi veya toplumsal bozuklukları yerme amacıyla yazılan şiir."
     },
     {
         "harf": "",
         "userId": 15,
         "id": 144,
-        "title": "mistral:",
-        "body": "Fransa’nın iç kesimlerinden Rhone Vadisi’ni izleyerek Akdeniz kıyılarına doğru kışın esen soğuk rüzgarlardır."
+        "title": "hüsn-i talil:",
+        "body": "Bir olguyu gerçek nedeniyle değil de hoşa giden başka bir nedenle açıklama sanatı."
     },
     {
         "harf": "N",
