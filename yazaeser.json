@@ -1985,8 +1985,29 @@
         "harf": "Z",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "sadr:",
+        "body": "Bir beyitte birinci mısranın ilk parçası ile nesirde cümlenin ilk parçası."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "sagu:",
+        "body": "Destan Dönemi Türk Edebiyatı’nda hece ölçüsüyle yazılan halk edebiyatında “ağıt”; divan edebiyatında “mersiye” olarak adlandırılan şiirler."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "saki:",
+        "body": "Su veren, su dağıtan kişi. Divan edebiyatında içki meclisinde şarap sunan kimse anlamında kullanılmıştır."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "sakiname:",
+        "body": "Sakiye (içki sunana) seslenmek yoluyla içkiyi (çoğunlukla şarabı) ve içki meclislerini, âdetlerini, içkiyle ilgili bütün düşünce, duygu ve kavramı bazen tasavvufi, bazen de dünyevî işleyen şiirler. Mesnevi şeklinde yazılır. Terkib-i bend, terc-i bend veya kaside şeklinde de görülür.  "
     },
         {
         "harf": "Z",
@@ -1999,106 +2020,294 @@
         "harf": "Z",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "saliye:",
+        "body": "Divan edebiyatımızda yeni yılı kutlamak için yazılan şiirler. Bu şiirlerde daima girilen yılın tarihini tespit eden bir beyit de bulunur."
     },
         {
-        "harf": "Z",
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
         {
-        "harf": "Z",
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "salname:",
+        "body": "Yıllık demektir. İçinde gün ve ay bilgisi de bulunan, kimi konularda belirli bilgiler içeren kitap."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "satirik şiir:",
+        "body": "Birini yermek ya da toplumsal düzensizlikleri eleştirmek için yazılmış şiir. Bu tür şiirler; Batı edebiyatında “satirik”, halk edebiyatında “taşlama”, divan edebiyatında “hicviye” şeklinde adlandırılır."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "sanat:",
+        "body": "Bir duygunun, bir tasarımın, bir düşünce ya da güzelliğin biçimlendirilip anlatımında kullanılan yöntemlerin tümü, bu yöntemlerle erişilen yaratıcılık."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "satirik:",
+        "body": "Bir kimseyi, bir olayı ya da bir düşünüş biçimini yermeye, toplumun ya da düzenin aksayan, kusurlu yanlarını iğnelemeye, alaycı bir dille anlatmaya yönelik olan."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "satranç:",
+        "body": "Saz şairleri tarafından aruzun müfte’ilün kalıbıyla ve musammat gazel şeklinde yazılan şiirler. Musammat beyitlerden oluştuğu için, her mısra kafiyeli iki eşit parçaya bölünür. Bu parçalar alt alta yazıldıklarında dörtlüklerden meydana gelen yeni bir şekli ortaya çıkar. Bu şeklin şeması şöyledir: abab / cccb / dddb…"
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "sav:",
+        "body": "Destan Dönemi Türk edebiyatında atasözlerine verilen ad."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "saya:",
+        "body": "Âşık edebiyatında nesir. Mensur karşılığı olarak da “sayalı” kullanılır. Secili (müsecca) nesre ise “ayaklı saya” adı verilir."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "sebk-i hindi:",
+        "body": "Divan edebiyatında kullanılan bir üslup. Terim, “Hint tarzı, Hint üslubu” anlamına gelir. Türk edebiyatına 17.  yüzyılda İran şairlerinin etkisiyle girdi. Bu nedenle “sebk-i İsfahani” diye de bilinir. İran edebiyatında ise Hindistan’dan geçmiştir."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "seci:",
+        "body": "Divan edebiyatı düz yazısında cümlelerin ortasında ve sonunda yapılan kafiye."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "seçkin:",
+        "body": "Edebiyat yapıtlarında seçilen parçaları içeren yapıt."
+    },
+        {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "sefaretname:",
+        "body": "Osmanlı İmparatorluğu döneminde bazı elçilerin gittikleri yabancı ülkeleri tanıtmak amacıyla o ülkelerde gördüklerini anlattıkları yapıtlara verilen ad."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "sehl-i mümteni:",
+        "body": "Çok kolay gibi görünen, ancak benzeri söylenmeye kalkışıldığı zaman güçlüğü anlaşılan, üstün nitelikli manzum söz."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "selaset:",
+        "body": "Bir yazıda cümle ve kelimelerin akıcı, ahenkli, kolay ve anlaşılır olması. Selaset, sözcüklerin birbirine uygun seçilmesiyle sağlanır."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "selh:",
+        "body": "Başkalarına ait bir şiirin anlamını alıp kelimelerini değiştirerek yeniden yazmak. Selh intihal’in bir çeşidi sayılır."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "selis:",
+        "body": "Halk şiiri nazım şekli. Aruzun fe’ilatün fe’ilün kalıbıyla gazel şeklinde yazılır. Murabba, muhammes, müseddes şeklinde yazılmış selislere de rastlanır. Kafiye düzeni “divan, semai ve kalenderi” nazım şekilleri ile aynıdır."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "semai:",
+        "body": "Hece ölçüsünün genellikle 8’li kalıbıyla; aşk, doğa ve insan sevgisi gibi konularda yazılan âşık edebiyatı nazım şekli. Ayrıca halk edebiyatında aruz ölçüsüyle de yazılan bazı şiirlere de semai denmiştir."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "semantik:",
+        "body": "Kelimelerin anlamlarını araştıran bilim."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "sembolizm:",
+        "body": "19.yüzyılda realizme tepki olarak doğan edebiyat akımı, simgecilik. Gerçekleri değil, gerçeklerin insanda bıraktığı izlenimi ele alır."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "serbest müstezat:",
+        "body": "Hem aruz, hem hecenin değişik kalıplarıyla yazılan bir şiir biçimi."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "serbest nazım:",
+        "body": "Bent, vezin ve kafiye kurallarına bağlı olmayan nazım şekli. Bentlerin, mısraların ve hecelerin sayıları belli düzene bağlı değildir. Şair isterse kafiyeli yazar. Bendleri sıralayabilir ve sınırlamaz. Önce Fransız sembolistlerin arasında yayıldı. Türk edebiyatına Servet-i Funun döneminde Batı edebiyatından girdi. Serbest nazmın uygulanışı üç aşama geçirdi: \n1. Vezinli-kalifiyali serbest nazım: Servet-i Fünun ve Fecr-i Ati döneminde görülür. Mısralar bir kelimeye kadar kısaldı, kafiye belli bir kurala göre sıralandı. Aruz veznine yer verildi, bir şiirde birkaç aruz kalıbı veya bu kalıpların çeşitli cüzleri kullanıldı. \n2. Vezinsiz-kafiyeli serbest nazım: 1925-1930 yıllarında görülmüş, 1930’dan sonra yaygınlık kazanmıştır.Vezin bırakılmış, bir heceye kadar küçülen dizeler kurulmuştur. Bu dizeler hiçbir dış düzene bağlı değildir. Şair belirtmek istediği fikri taşıyan kelimeyi öne çıkarır. Büyük harfler sadece cümle başlarında kullanılabilir.Kafiyeli mısraların arası açılarak kafiyeli örgüsü gevşetilir. \n3.Vezinsiz-kafiyesiz serbest nazım: 1940 yılından sonra yaygınlaşan bu anlatışta vezin ve kafiye tamamen bırakıldı şiirde iç uyum önem kazandı. "
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "simge:",
+        "body": "Genel anlamda, toplumsal anlaşmaya dayanan, anlamı önceden karalaştırılmış, belirli işaret, sembol."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "sohbet:",
+        "body": "Bir konunun ya da düşüncenin bir başkasıyla konuşuyormuş gibi işlendiği yazı."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "somutlama:",
+        "body": "Eğretileme, benzetme, örnekseme gibi sanatlar aracılığıyla soyut kavramların, somut anlamlı sözcüklerle adlandırma ve anlatma yöntemi."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "sone:",
+        "body": "İlk iki bendi dörtlük, son iki bendi üçlük toplam on dört mısradan oluşan nazım şekli. Önce İtalyan edebiyatında kullanılmış, sonra Fransız edebiyatına, oradan da diğer Avrupa edebiyatlarına geçmiştir. Edebiyatımızda ilk kez Servet-i Fünûn Döneminde Cenap Şahabettinin’in sone şeklinde şiir yazdığını görüyoruz. Servet-i Fünun şairlerinin hemen hepsi bu nazım şeklini benimser. Sone kafiye sistemi üçe ayrılır. "
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "söylem:",
+        "body": "Konuşan ya da yazan kişinin kullandığı, bir başlangıcı ve sonu bulunan, kendi içerisinde bir tutarlılık ilkesine göre örgütlenmiş dil."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "söylev:",
+        "body": "Bir topluluğa düşünceler, duygular aşılamak amacıyla söylenen, uzunca coşkulu ve güzel söz, nutuk, hitabe."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "söz kalabalığı:",
+        "body": "Sözlü ya da yazılı anlatımda konuyla ilgisi olsun olmasın gereksiz bir yığın sözle anlatımı doldurma, şişirme."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "söz sanatları:",
+        "body": "Edebi sanatlar: Edebiyat yapıtlarını etkili ve güzel kılmak amacıyla başvurulan söz ve anlam oyunlarının tümü."
+    },
+            {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "surname:",
+        "body": "Divan edebiyatında sünnet, düğün, şenlik gibi olayları anlatan şiir şeklinde oluşturulan yapıt."
+    },
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     },
-        {
-        "harf": "Z",
-        "userId": 25,
-        "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
-    },
-        {
-        "harf": "Z",
-        "userId": 25,
-        "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
-    },
-        {
-        "harf": "Z",
+            {
+        "harf": "",
         "userId": 25,
         "id": 221,
         "title": "nazım:",
         "body": "nazım"
     }
-    
 ]
