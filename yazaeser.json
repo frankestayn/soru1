@@ -2237,77 +2237,315 @@
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "şaheser:",
+        "body": "Nesilden nesle geçen, benzeri yazılamayan yüksek değerdeki edebi eser. Şaheserlerin başlıca özellikleri şöyle sıralanır: Zengin bir kültür birikimi sonucu yazılır, her devrin okuyucusu tarafından aranır, okunur ve taktir edilir, zamanla yayılır, ulusal ve uluslar arası unsurlar içerir, pek çok yabancı dile çevrilir, türünde yazılan yeni eserlere örnek olur."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "şairanelik:",
+        "body": "Özellikle şiirde belirli sözcüklerin kullanıla kullanıla kalıplaşma, sözcüklerin duygusal ve çağırışımsal anlatımları yönünden tazeliklerini yitirmesi durumu. "
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "şarkı:",
+        "body": "Divan edebiyatında Türklerin kattığı, dörtlükler halinde ve bestelenmek için yazılan bir nazım şekli."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "şathiye:",
+        "body": "Tanrı’yla senli benli, onunla söyleşircesine yazılan tasavvuf edebiyatı nazım türü."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "şehrengiz:",
+        "body": "Bir şehrin güzelliklerini anlatan eser."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "taç beyti:",
+        "body": "Kasidede şairin adının geçtiği beyit."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "tahmis:",
+        "body": "Bir gazelin beyitlerine ücer mısra eklenerek oluşturulan şiir."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "takti:",
+        "body": "Aruzla yazılmış bir şiiri kalıplara ayırma."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "tardiye:",
+        "body": "Muhammesin, beşinci satırı öbürleriyle kafiyeli olmayan türü."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "tariz:",
+        "body": "Bir sözü karşıt anlamını düşündürecek biçimde söyleme sanatı, iğneleme, dokundurma."
     },
             {
         "harf": "",
         "userId": 25,
         "id": 221,
-        "title": "nazım:",
-        "body": "nazım"
+        "title": "taşlama:",
+        "body": "Halk edebiyatında bir kişiyi ya da olayı yeren şiir, hiciv."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "taştir:",
+        "body": "Bir gazelin her beytinin dizeleri arasına üçer dize eklenerek oluşturulan şiir."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tecahül-i arif:",
+        "body": "Bir şairin, bildiği bir gerçeği bilmez görünerek söz söyleme sanatı."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "telmih:",
+        "body": "Söz arasında tarihsel bir olaya ya da kişiliğe işaret etme sanatı."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tema:",
+        "body": "Öğretici veya edebî bir eserin bütününde (özellikle şiirde) işlenen konu, düşünce, kavram, ana duygu."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "temaşa sanatı:",
+        "body": "Meddah, orta oyunu, Karagöz, tiyatro gibi seyirlik sanatlar."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "temel çatışma:",
+        "body": "Anlatıma dayalı edebî metinlerde gerilimi sağlayan, olayların dayandığı asıl unsur. Eserin bütününde işlenen temel sorun."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tenasüp:",
+        "body": "Birbirleriyle ilgili sözcükleri bir arada kullanma sanatı."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "terci-i bent:",
+        "body": " Biçimsel yönden terkib-i bentle aynı olan, vasıta beytinin her bendin sonunda tekrarlanması yönüyle ondan ayrılan nazım biçimi."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "terdit:",
+        "body": " Bir yazıda, sözü okuyucunun tahmin edemeyeceği biçimde bitirme sanatı."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "terkib-i bent:",
+        "body": "Edebiyatta “hane” adı verilen gazel biçiminde kafiyelendirilmiş 5–10 beyitlik şiir parçalarının (genellikle 5-12 hane) “vasıta adı verilen ve sürekli değişen bir birine bağlanmasından oluşan nazım şekli."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "terza-rima:",
+        "body": "Türk edebiyatına Batı edebiyatına geçen ve üçlükler halinde yazılan şiir çeşidi."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "teşbih-i beliğ:",
+        "body": " Benzetmenin, yalnızca temel ögeleriyle yapılan söz sanatı, yalın benzetme."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tevhit:",
+        "body": " Divan şiirinde Allah’ın varlığını ve birliğini işleyen kaside türü."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tevriye:",
+        "body": " Birden fazla gerçek anlamı olan bir özü iki anlama da gelecek biçimde kullanma sanatı."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tezkire:",
+        "body": "Divan edebiyatında biyografi türündeki yapıtlara verilen ad."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tinsel tabaka:",
+        "body": "Dil ile ve dile göre oluşmuş kültürel kimliği belirleyen manevi alan. İnsan etkinliklerinin temelinde yatan, geleneği oluşturan, dilde ve sanatta en yetkin ifadesi bulmuş olan, insana özgü anlam dünyası."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tirat:",
+        "body": "Tiyatroda, kişilerin uzun soluklu, kesintisizce yaptığı konuşma."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tiyatro:",
+        "body": " İnsan hayatına ilişkin bir konuyu, bir olayı kurmaca olarak sahnede gösterme, canlandırma ilkesine dayalı sanat dalı."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "trajedi:",
+        "body": "Acıklı olayları anlatan kısa oyun, ağlatı."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "trajik:",
+        "body": "Trajedi ile ilgili; dehşetli, kaçınılması elde olmayan üzücü olaylarla ilgili; acıma duygusu uyandıracak halde olan."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tuluat:",
+        "body": "Yazılı metni olmayan, kararlaştırılmış taslağı; yerine, zamanına göre oyuncular tarafından, sahnede yakıştırılan sözlerle tamamlanan tiyatro türü."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "tuyuğ:",
+        "body": "Divan şiirine Türklerin kattığı, maniye benzer nazım biçimi."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "türkü:",
+        "body": "Belli bir ezgisi olan ve hece ölçüsüyle yazılan anonim halk şiiri nazım şekli."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "üslup (biçem):",
+        "body": "Bir yazarın kendi özgü anlatış yolu, anlatım biçimi."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "varoluşculuk:",
+        "body": "II. Dünya Savaşı’ndan sonra, Fransa’da savaşın acılarına tepki olarak çıkan edebiyat akımı, Egzistansiyalizm."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "varsağı:",
+        "body": "Bre, Hey gibi ifadeleri içeren, beste ile söylenen âşık edebiyatı nazım şekli."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "vodvil:",
+        "body": "Amacı seyirciyi güldürmek olan, kaba nüktelerle örülmüş, şarkılı-müzikli güldürü."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "yan anlam:",
+        "body": "Bir sözcüğün gerçek anlamdan çok uzaklaşmadan kelime grubu veya cümle  içinde kazandığı yeni anlam"
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "yekahenk gazel:",
+        "body": "Beyitleri arasında konu birliği olan gazel."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "yekavaz gazel:",
+        "body": "Tüm beyitleri aynı güzellikte söylenmiş gazel."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "yuğ:",
+        "body": "İslamiyet’in Kabulünden Önceki Türk Edebiyatı’nda Türkler arasında ölenin ardından yapılan tören.   "
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "zihaf:",
+        "body": "Aruzda, vezin gereği, kapalı heceyi acık okuma."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "zihniyet:",
+        "body": "Edebiyatta, bir edebi eserde bulunan görüş ve düşünüş biçimini ifade eden kavram."
+    },
+                {
+        "harf": "",
+        "userId": 25,
+        "id": 221,
+        "title": "ziyade:",
+        "body": "Müstezatta kısa mısralara verilen ad."
     }
 ]
