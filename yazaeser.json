@@ -1509,51 +1509,413 @@
         "harf": "",
         "userId": 24,
         "id": 215,
-        "title": "yerel saat:",
-        "body": "Bir noktada Güneş'in gökyüzündeki konumuna göre belirlenen saate yerel saat denir. Aynı boylam üzerindeki noktalarda yerel saat aynıdır. Herhangi bir meridyenin Güneşin tam karşısına geldiği an, meridyen üzerindeki tüm noktalarda yerel saat 12.00'dir.Güneş, doğudaki bir noktada batıdaki yerlere göre daha önce doğar ve daha önce batar; bu nedenle yerel saat doğudaki yerlerde daha ileridir."
+        "title": "naat:",
+        "body": "Konusu Hz. Muhammed’i övmek, ona yalvarıp ondan şefaat dilemek olan kaside."
     },
     {
         "harf": "",
         "userId": 24,
         "id": 216,
-        "title": "yıldız:",
-        "body": "Türkiye’ye kuzeyden esen soğuk rüzgarlardır. Karadeniz kıyılarına yağış bırakırlar. Kar yağışına neden olurlar. Karayel ile karışık estiğinde kar fırtınaları görülür."
+        "title": "nakarat:",
+        "body": "Şiirde bentlerin sonunda tekrarlanan mısra veya mısralar. Bu bölüm, anlam bakımından her bendi şiirin ana duygusuna bağlar. Şiirin nakarat bölümlerinde ifade olunan duygu ve düşünce etrafında gelişmesini sağlar. Nakarat, halk şiirinde ‘bağlama’ veya ‘kavuştak’ diye bilinir. Sözlü musiki eserlerinde aynı söz ve ezgi ile tekrar edilen bölüm de nakarattır."
     },
     {
         "harf": "",
         "userId": 24,
         "id": 217,
-        "title": "yoğunlaşma:",
-        "body": "Atmosferdeki su buharının gaz halden sıvı ya da katı hale geçmesine yoğunlaşma denir. Yoğunlaşmanın temel nedeni sıcaklığın düşmesidir."
+        "title": "name:",
+        "body": "Mektup, kitap, risale, ferman gibi anlamlar taşıyan bir kelime. Eskiden kitap türü olarak çok kullanılmıştır. “Kıyafetname, kabname, Hamzaname” gibi. Resmi nitelikteki kâğıt ve mektuplar da name diye bilinirdi."
     },
     {
         "harf": "",
         "userId": 24,
         "id": 218,
-        "title": "yöre:",
-        "body": "Bölüm içerisinde farklı özelliklere sahip, bölümden daha küçük birimlerdir. Iğdır Yöresi, Göller Yöresi, Menteşe Yöresi gibi."
+        "title": "natüralizm:",
+        "body": "1897’de Fransa’da ortaya çıkan, gözlemle birlikte bilimsel deneyi de uygulayan edebiyat akımı."
     },
     {
         "harf": "",
         "userId": 24,
         "id": 219,
-        "title": "yörünge düzlemi:",
-        "body": "Ekliptik."
+        "title": "nazım birimi:",
+        "body": "Manzume ve şiirlerde, anlam bütünlüğü gösteren, yapıyı oluşturan, kendi içinde bağımsız dize veya dizeler topluluğu.."
     },
     {
         "harf": "",
         "userId": 24,
         "id": 220,
-        "title": "yükseklik:",
-        "body": "Ağır bir gaz olan su buharı, yerçekiminin etkisiyle fazla yükselemez. Yoğunlaşma sonucu yağış tekrar yeryüzüne düşer. Yükseldikçe hava soğuyacağından havanın su buharı taşıma kapasitesi dolayısıyla buharlaşma azalır."
+        "title": "nazım şekli:",
+        "body": "Mısra sayısı, birim sayısı, kafiye ve ölçü bakımından belli özellikler gösteren manzum yapı."
     },
     {
         "harf": "Z",
         "userId": 25,
         "id": 221,
-        "title": "zoocoğrafya:",
-        "body": "Hayvan dağılışını inceleyen bilim dalı."
+        "title": "nazire:",
+        "body": "Bir şairin şiirine başka bir şair tarafından aynı şekil, vezin, kafiye ve redifle yazılan şiir. Divan edebiyatı nazım türüdür. Kelime Arapca “eş, değer” anlamlarındaki nazir’den gelir. “Nazire yazma, tenzir, tanzir etme” diye de anılır. Nazire geleneği Türk edebiyatına İran edebiyatından geçmiştir. İranlı şairler nazireye “cevab” adını verirler. Alay ve şaka yollu yazılmış nazirelere ‘tehzil’ veya ‘hezl’ denir."
+    },
+    {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nefes:",
+        "body": "Özellikle Bektaşi ozanlarında yazılan, Bektaşi törenlerinde makamlarla okunan, temaları Bektaşi inanışlarını içeren manzumelere verilen ad. Nefes tekke edebiyatının bir nazım türüdür."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "neo-klasisizm:",
+        "body": "20. yüzyılın başlarında sembolizme tepki olarak doğan, klasik söyleyişi canlandırmayı amaçlayan sanat ve edebiyat akımı. Türk edebiyatında, bu akımın en güçlü temsilcisi, Yahya Kemal Beyatlı’dır. Yahya Kemal’in şiirleri,biçim yönünden eski, öz yönünden yenidir."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nesip:",
+        "body": "Kasidede tasvir yapılan bölüm."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nesir (düz yazı):",
+        "body": " Duygu, düşünce ve hayallerin dilbilgisi kurallarına uygun cümleler içinde anlatılması şeklindeki edebî eser."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nesnellik:",
+        "body": "Yazarın, kendisini anlatımın dışında tutması, başka bir deyişle kendisini anlatıma katmaması; nesneleri, kişileri kendi öz nitelikleriyle yansıtması durumu."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nihilizm:",
+        "body": "Hiççilik."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "ninni:",
+        "body": " Ölçü ve uyak yönünden maniye benzeyen, genellikle çocukları uyutmak için özel bir ezgiyle söylenen anonim halk edebiyat ürünü."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "olay örgüsü:",
+        "body": "Okuyucuda veya dinleyicide estetik bir etki uyandırmak amacıyla konuyu oluşturan olayların birbiriyle bağlantısına verilen ad."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "olay:",
+        "body": "Öykü, roman, masal, anlatı gibi edebiyat ürünlerinde konuyu geliştiren, boyutlandırıp akışını sağlayan olguların bütünü."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "opera komik:",
+        "body": "Dokusunda acıklıyla gülüncü barındıran müzikli oyun."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "opera:",
+        "body": "Orkestra eşliğinde oynanan, acıklı olayları anlatan, besteli oyun."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "operet:",
+        "body": "Seyirciyi eğlendirmek için gösterilen, konusunu daha çok gülünç olaylardan alan müzikli oyun."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "oratoryo:",
+        "body": "Kutsal konuları işleyen, oyun ögesi bulunmayan, bestelenmiş manzume."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "orhun yazıtları:",
+        "body": "8. yüzyılda Göktürklerce dikilen ve Türk edebiyatının ilk yazılı belgesi sayılan anıtlar."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "orta oyunu:",
+        "body": "Sahne olarak kabul edilen ve etrafı seyircilerle kuşatılmış bir alanda, belirli bir konu doğrultusunda fakat yazılı bir metne bağlı kalınmaksızın, dekorsuz, suflörsüz ve karşılıklı konuşmaya dayanan halk tiyatrosu."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "otobiyografi:",
+        "body": "Bir kişinin kendi hayatını kendisinin yazmasıyla ortaya çıkan yapıt."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "otograf:",
+        "body": "Yazarın kendi el yazısı. Eskiden hatt-ı dest (el yazısı) deyimi kullanılırdı."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "oyun:",
+        "body": " Sahnede oynanmak amacıyla yazılmış yapıtlara verilen ad."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "ozan:",
+        "body": "Kopuzla türkü söyleyen en eski Türk şairleri. Osmanlı döneminde halkı şairleri için kullanılırdı. Âşık sözünün karşılığı olduğu gibi meddah anlamını da taşıyordu. Ozanların toplumda önemli yerleri vardı. Beylerin huzurunda, dini törenlerde elindeki kopuzunu çalarak kahramanlık destanları okurlar, halk arasında kıssa söylerlerdi Memluk ordusunun mızıka takımında ozan denilen çalgıcılar olduğu tarihî kaynaklarda yazar. Selçuklular da da benzer durum görülür."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "öğretici tür:",
+        "body": "Genel bağlamda öğretme, bilgilendirme amacıyla ortaya konan tüm ürünleri adlandırmak için kullanılır."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "öndeyiş:",
+        "body": "Bir yazınsal yapıtta ya da tiyatro ürünlerinde asıl konudan önce geçenleri özetleyerek verilen bölüm, prolog."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "ön söz:",
+        "body": "Bir yapıtın hangi amaçla, nasıl bir yöntemle hazırlandığını belirtmek için yapıtın baş tarafına yazarın koyduğu kısa yazı."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "örnekseme:",
+        "body": " Dilde yeni bir sözcük yaratmada tutulan yol."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "örtmece:",
+        "body": "Doğrudan doğruya söylenmesi uygun olmayan bir olguyu, dümdüz anlatma ya da söyleme yerine dolaylı biçimde anlatma yolu."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "öykü:",
+        "body": "Gerçek veya gerçeğe uygun olayları, kişi, zaman, mekâna bağlı anlatan kısa yazı, hikaye."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "öz şiirciler:",
+        "body": "Cumhuriyet dönemi Türk şiirinde özellikle 1930’lardan sonra şiirde ses güzelliğine önem veren, anlamı, anlatmayı arka plana atmayı tercih eden şairleri anlatmak için kullanılır. Öncüleri Ahmet Haşim ve Yahya Kemal Beyatlı olmuştur."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "özenti:",
+        "body": "Anlatımda doğallıktan kaçınma, yapmacık olma durumu."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "özetleme:",
+        "body": " Konuşulanların anlatılanların ya da okunanların ayrıntısız bir biçimde, ana çizgileriyle belirtilmesi işi."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "özleştirme:",
+        "body": "Türkçenin, yabancı dillerden türlü nedenlerle aldığı yabancı kökenli sözcüklerin yerine Türkçe sözcük bulup bunları yabancı sözcüklerin yerine geçirme işi."
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
+    },
+        {
+        "harf": "Z",
+        "userId": 25,
+        "id": 221,
+        "title": "nazım:",
+        "body": "nazım"
     }
-
-    
 ]
