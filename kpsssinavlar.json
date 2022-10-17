@@ -1,30 +1,30 @@
 [ 
     {
-       "tahmin":"KPSS Tahmini Kalan Süre",
-       "gün":"19 Haziran 2022 / Pazar / Saat: 10:15",
-       "sure":"2023-06-18 10:15:00.000",
+       "tahmin":"KPSS 2023 Sınavı Tahmini Kalan Süre:",
+       "gün":"30 Temmuz 2023 / Saat: 10.15",
+       "sure":"2023-07-30 10:15:00.000",
        
-       "bilgi": "18 Haziran 2023 / Cumartesi / Saat: 10:15",
+       "bilgi": "• 18 Eylül 2022 / Saat:10.15",
        "title": "Genel Kültür Genel Yetenek",
        "body": "2020-06-18 10:15:00.000"
    },    
    {
-       "bilgi": "18 Haziran 2022 / Cumartesi / Saat: 10:15",
+       "bilgi": "• 18 Eylül 2022 / Saat: 14.45",
        "title": "Eğitim Bilimleri Sınavı",
        "body": "2022-06-18 10:15:00.000"
    },
    {
-       "bilgi": "19 Haziran 2022 / Pazar / Saat: 10:15",
+       "bilgi": "• 2 Ekim 2022 / Sabah: 10.15 / Öğle: 14:45",
        "title": "ÖABT Alan Bilgisi Sınavı",
        "body": "2022-06-19 10:15:00.000"
    },  
    {
-       "bilgi": "19 Haziran 2022 / Pazar / Saat: 15:45",
+       "bilgi": "• 18 Eylül 2022 / Saat:10.15",
        "title": "Ön Lisans Sınavı",
        "body": "2022-06-19 15:45:00.000"
    },
    {
-    "bilgi": "19 Haziran 2022 / Pazar / Saat: 15:45",
+    "bilgi": "24 Nisan 2022 / Saat: 10.15",
     "title": "EKPSS Sınavı",
     "body": "2022-06-19 15:45:00.000"
    }
