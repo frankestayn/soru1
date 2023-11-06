@@ -1,22 +1,22 @@
 [ 
     {
-       "tahmin":"KPSS 2024 Lisans Tahmini Kalan Süre:",
-       "gün":"23 Temmuz 2024 / Saat: 10.15",
+       "tahmin":"KPSS 2024 Lisans Kalan Süre:",
+       "gün":"14 Temmuz 2024 / Saat: 10.15",
        "sure":"2024-07-23 10:15:00.000",
        
-       "bilgi": "• 23 Temmuz 2023 / Saat:10.15",
+       "bilgi": "• 14 Temmuz 2024 / Saat:10.15",
        "title": "Genel Kültür Genel Yetenek",
-       "body": "2023-07-23 10:15:00.000"
+       "body": "2024-07-14 10:15:00.000"
    },
    {
-       "bilgi": "• 23 Temmuz 2023 / Saat: 14.45",
+       "bilgi": "• 14 Temmuz 2024 / Saat: 14.45",
        "title": "Eğitim Bilimleri Sınavı",
-       "body": "2023-07-23 14:45:00.000"
+       "body": "2024-07-14 14:45:00.000"
    },
    {
-       "bilgi": "• 6 Ağustos 2023 / Sabah: 10.15 / Öğle: 14:45",
+       "bilgi": "• 4 Ağustos 2024 / Sabah: 10.15 / Öğle: 14:45",
        "title": "ÖABT Alan Bilgisi Sınavı",
-       "body": "2023-08-06 10:15:00.000"
+       "body": "2024-08-04 10:15:00.000"
    },  
    {
        "bilgi": "• 18 Eylül 2022 / Saat:10.15",
